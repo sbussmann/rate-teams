@@ -1,0 +1,523 @@
+Team A,Team B,Team A Wins,Index A,Index B
+AHOC,Gothrilla,True,0,1
+AHOC,BBN,True,0,9
+AHOC,Stonecutters,True,0,41
+AHOC,FlowChart,True,0,2
+AHOC,Lady and the BAMF,True,0,28
+AHOC,Swingers,True,0,5
+AHOC,Upstream,True,0,10
+AHOC,Tubbs,True,0,29
+AHOC,Stonecutters,True,0,41
+AHOC,Zerg Rush!,True,0,4
+AHOC,Turtle Boy,True,0,7
+AHOC,"Live Poultry, Fresh Killed (LPFK)",True,0,8
+AHOC,TuneSquad,True,0,6
+AHOC,JuJu Hex,True,0,43
+Gothrilla,Swingers,False,1,5
+Gothrilla,FlowChart,True,1,2
+Gothrilla,Hucky McThrowandcatch,True,1,50
+Gothrilla,SnakeCountryBromance,False,1,40
+Gothrilla,Zerg Rush!,False,1,4
+Gothrilla,GrassBurner,True,1,3
+Gothrilla,Turtle Boy,True,1,7
+Gothrilla,"Live Poultry, Fresh Killed (LPFK)",True,1,8
+Gothrilla,Upstream,True,1,10
+Gothrilla,"Live Poultry, Fresh Killed (LPFK)",True,1,8
+Gothrilla,TuneSquad,True,1,6
+Gothrilla,BBN,True,1,9
+Gothrilla,Swingers,True,1,5
+Gothrilla,Zerg Rush!,True,1,4
+Gothrilla,GrassBurner,False,1,3
+Gothrilla,Shake and Bake,True,1,42
+FlowChart,GrassBurner,True,2,3
+FlowChart,Dominion,True,2,23
+FlowChart,GrassBurner,True,2,3
+FlowChart,Rogues' Gallery,True,2,24
+FlowChart,Moose Lightning,True,2,27
+FlowChart,Swingers,True,2,5
+FlowChart,JHOP,True,2,17
+FlowChart,TuneSquad,True,2,6
+FlowChart,Turtle Boy,True,2,7
+FlowChart,"Live Poultry, Fresh Killed (LPFK)",True,2,8
+FlowChart,Upstream,False,2,10
+FlowChart,Fetch,True,2,21
+FlowChart,BBN,True,2,9
+FlowChart,Zerg Rush!,False,2,4
+GrassBurner,BBN,True,3,9
+GrassBurner,TuneSquad,True,3,6
+GrassBurner,Disc Envy,True,3,19
+GrassBurner,Hipster Kitties,True,3,30
+GrassBurner,SnakeCountryBromance,False,3,40
+GrassBurner,BBN,True,3,9
+GrassBurner,"Live Poultry, Fresh Killed (LPFK)",True,3,8
+GrassBurner,JuJu Hex,False,3,43
+GrassBurner,Puddingstone,True,3,12
+GrassBurner,Swingers,False,3,5
+GrassBurner,Zerg Rush!,False,3,4
+GrassBurner,JHOP,True,3,17
+GrassBurner,Moose Lightning,False,3,27
+GrassBurner,Turtle Boy,True,3,7
+GrassBurner,Rogues' Gallery,False,3,24
+GrassBurner,SHRedline,True,3,51
+GrassBurner,Stonecutters,True,3,41
+Zerg Rush!,TuneSquad,True,4,6
+Zerg Rush!,SnakeCountryBromance,False,4,40
+Zerg Rush!,Moose Lightning,True,4,27
+Zerg Rush!,Swingers,True,4,5
+Zerg Rush!,Turtle Boy,True,4,7
+Zerg Rush!,Injustice League,True,4,11
+Zerg Rush!,Puddingstone,False,4,12
+Zerg Rush!,Fetch,True,4,21
+Zerg Rush!,"Live Poultry, Fresh Killed (LPFK)",True,4,8
+Swingers,"Live Poultry, Fresh Killed (LPFK)",False,5,8
+Swingers,JHOP,True,5,17
+Swingers,TuneSquad,False,5,6
+Swingers,BBN,True,5,9
+Swingers,Turtle Boy,True,5,7
+Swingers,Shake and Bake,False,5,42
+Swingers,Stonecutters,False,5,41
+TuneSquad,TuneSquad Squared,True,6,31
+TuneSquad,Puddingstone,True,6,12
+TuneSquad,Shake and Bake,False,6,42
+TuneSquad,Puddingstone,False,6,12
+TuneSquad,"Live Poultry, Fresh Killed (LPFK)",True,6,8
+TuneSquad,BBN,False,6,9
+TuneSquad,Dominion,True,6,23
+TuneSquad,Turtle Boy,True,6,7
+Turtle Boy,Injustice League,False,7,11
+Turtle Boy,"Live Poultry, Fresh Killed (LPFK)",True,7,8
+Turtle Boy,Puddingstone,False,7,12
+Turtle Boy,Lady and the BAMF,True,7,28
+Turtle Boy,Dominion,True,7,23
+Turtle Boy,Upstream,False,7,10
+Turtle Boy,Shake and Bake,True,7,42
+Turtle Boy,Stonecutters,True,7,41
+"Live Poultry, Fresh Killed (LPFK)",BBN,False,8,9
+"Live Poultry, Fresh Killed (LPFK)",Rogues' Gallery,True,8,24
+"Live Poultry, Fresh Killed (LPFK)",Upstream,True,8,10
+"Live Poultry, Fresh Killed (LPFK)",Rubs The Duckie,False,8,18
+"Live Poultry, Fresh Killed (LPFK)",Lady and the BAMF,True,8,28
+"Live Poultry, Fresh Killed (LPFK)",Hucky McThrowandcatch,True,8,50
+"Live Poultry, Fresh Killed (LPFK)",Injustice League,False,8,11
+"Live Poultry, Fresh Killed (LPFK)",Tubbs,True,8,29
+"Live Poultry, Fresh Killed (LPFK)",License to Kilt (fka Scoobers in Scotland),False,8,15
+"Live Poultry, Fresh Killed (LPFK)",Puddingstone,False,8,12
+BBN,Shake and Bake,False,9,42
+BBN,Injustice League,False,9,11
+BBN,Stonecutters,False,9,41
+Upstream,Store Bought Dirt,True,10,20
+Upstream,Too Drunk to Fail,True,10,32
+Upstream,Jack's Abby HAOS Lager,False,10,14
+Upstream,Lady and the BAMF,True,10,28
+Upstream,Moose Lightning,True,10,27
+Upstream,JHOP,True,10,17
+Upstream,Underwater Monkey Cowboys,True,10,36
+Upstream,SHRedline,True,10,51
+Upstream,Disc Envy,True,10,19
+Upstream,Toads,True,10,16
+Upstream,Puddingstone,True,10,12
+Upstream,Jack's Abby HAOS Lager,False,10,14
+Upstream,JHOP,True,10,17
+Upstream,TuneSquad Squared,True,10,31
+Upstream,License to Kilt (fka Scoobers in Scotland),True,10,15
+Upstream,A Lil Bit Sticky,True,10,25
+Upstream,Hipster Kitties,False,10,30
+Upstream,Tubbs,True,10,29
+Upstream,Store Bought Dirt,True,10,20
+Upstream,Nerd Alert,True,10,26
+Upstream,Fetch,True,10,21
+Injustice League,A Lil Bit Sticky,True,11,25
+Injustice League,Jack's Abby HAOS Lager,True,11,14
+Injustice League,Hipster Kitties,True,11,30
+Injustice League,Moose Lightning,True,11,27
+Injustice League,Tubbs,True,11,29
+Injustice League,Booooooosh!,True,11,22
+Injustice League,Dominion,True,11,23
+Injustice League,Fetch,True,11,21
+Injustice League,Hipster Kitties,True,11,30
+Injustice League,Rogues' Gallery,True,11,24
+Injustice League,Puddingstone,True,11,12
+Puddingstone,Nerd Alert,True,12,26
+Puddingstone,Dominion,True,12,23
+Puddingstone,License to Kilt (fka Scoobers in Scotland),True,12,15
+Puddingstone,Moose Lightning,True,12,27
+Puddingstone,Rubs The Duckie,True,12,18
+Puddingstone,Toads,True,12,16
+Puddingstone,Hipster Kitties,True,12,30
+Puddingstone,Fetch,True,12,21
+Puddingstone,The Funky Bunch,True,12,52
+Puddingstone,JHOP,True,12,17
+Puddingstone,Rogues' Gallery,True,12,24
+Puddingstone,Store Bought Dirt,True,12,20
+Puddingstone,Maverick,False,12,46
+Puddingstone,Jack's Abby HAOS Lager,False,12,14
+Puddingstone,A Lil Bit Sticky,True,12,25
+Puddingstone,TuneSquad Squared,True,12,31
+Flaming Croissants,Demons,False,13,57
+Flaming Croissants,Dominion,True,13,23
+Flaming Croissants,Spam,True,13,60
+Flaming Croissants,Top Shelf,True,13,38
+Flaming Croissants,Fetch,True,13,21
+Flaming Croissants,Store Bought Dirt,False,13,20
+Flaming Croissants,Moose Lightning,True,13,27
+Flaming Croissants,A Lil Bit Sticky,True,13,25
+Flaming Croissants,JHOP,False,13,17
+Flaming Croissants,Nerd Alert,True,13,26
+Flaming Croissants,Rubs The Duckie,True,13,18
+Flaming Croissants,Underwater Monkey Cowboys,True,13,36
+Flaming Croissants,Disc Envy,True,13,19
+Flaming Croissants,Oddjob,True,13,33
+Flaming Croissants,Jack's Abby HAOS Lager,False,13,14
+Flaming Croissants,Booooooosh!,True,13,22
+Flaming Croissants,Stack to the Future,True,13,35
+Flaming Croissants,Baboon Heart,False,13,37
+Flaming Croissants,Rogues' Gallery,True,13,24
+Flaming Croissants,Hipster Kitties,True,13,30
+Jack's Abby HAOS Lager,TuneSquad Squared,True,14,31
+Jack's Abby HAOS Lager,Lady and the BAMF,True,14,28
+Jack's Abby HAOS Lager,Toads,False,14,16
+Jack's Abby HAOS Lager,Store Bought Dirt,True,14,20
+Jack's Abby HAOS Lager,License to Kilt (fka Scoobers in Scotland),True,14,15
+Jack's Abby HAOS Lager,A Lil Bit Sticky,True,14,25
+Jack's Abby HAOS Lager,Disc Envy,True,14,19
+License to Kilt (fka Scoobers in Scotland),Pink Flamingos,False,15,44
+License to Kilt (fka Scoobers in Scotland),Fetch,True,15,21
+License to Kilt (fka Scoobers in Scotland),Nerd Alert,True,15,26
+License to Kilt (fka Scoobers in Scotland),Tubbs,True,15,29
+License to Kilt (fka Scoobers in Scotland),Store Bought Dirt,True,15,20
+License to Kilt (fka Scoobers in Scotland),JHOP,False,15,17
+License to Kilt (fka Scoobers in Scotland),Stack to the Future,True,15,35
+License to Kilt (fka Scoobers in Scotland),Toads,True,15,16
+License to Kilt (fka Scoobers in Scotland),Rubs The Duckie,True,15,18
+License to Kilt (fka Scoobers in Scotland),Rogues' Gallery,True,15,24
+License to Kilt (fka Scoobers in Scotland),SHRedline,False,15,51
+License to Kilt (fka Scoobers in Scotland),Moose Lightning,True,15,27
+License to Kilt (fka Scoobers in Scotland),Hipster Kitties,True,15,30
+License to Kilt (fka Scoobers in Scotland),A Lil Bit Sticky,True,15,25
+License to Kilt (fka Scoobers in Scotland),Booooooosh!,True,15,22
+Toads,Baboon Heart,True,16,37
+Toads,Store Bought Dirt,False,16,20
+Toads,Top Shelf,True,16,38
+Toads,Lady and the BAMF,True,16,28
+Toads,A Lil Bit Sticky,True,16,25
+Toads,Spam,True,16,60
+Toads,Rabbit Disc,True,16,54
+Toads,Rogues' Gallery,True,16,24
+Toads,Moose Lightning,True,16,27
+Toads,TuneSquad Squared,True,16,31
+Toads,Lady and the BAMF,True,16,28
+Toads,Store Bought Dirt,False,16,20
+Toads,Nerd Alert,False,16,26
+Toads,Tubbs,True,16,29
+Toads,JHOP,True,16,17
+Toads,Killer Bees,True,16,61
+Toads,Rubs The Duckie,False,16,18
+Toads,Underwater Monkey Cowboys,True,16,36
+Toads,Fetch,False,16,21
+JHOP,Fetch,False,17,21
+JHOP,Store Bought Dirt,True,17,20
+JHOP,Top Shelf,True,17,38
+JHOP,Tubbs,True,17,29
+JHOP,Stack to the Future,True,17,35
+JHOP,Disc Envy,True,17,19
+JHOP,Oddjob,True,17,33
+JHOP,Booooooosh!,True,17,22
+JHOP,Rogues' Gallery,False,17,24
+JHOP,Nerd Alert,True,17,26
+JHOP,TuneSquad Squared,True,17,31
+JHOP,Lady and the BAMF,True,17,28
+Rubs The Duckie,Moose Lightning,True,18,27
+Rubs The Duckie,Nerd Alert,False,18,26
+Rubs The Duckie,Hipster Kitties,True,18,30
+Rubs The Duckie,TuneSquad Squared,True,18,31
+Rubs The Duckie,Store Bought Dirt,True,18,20
+Rubs The Duckie,Dominion,True,18,23
+Rubs The Duckie,Rogues' Gallery,True,18,24
+Rubs The Duckie,Disc Envy,True,18,19
+Disc Envy,Store Bought Dirt,True,19,20
+Disc Envy,Fetch,True,19,21
+Disc Envy,A Lil Bit Sticky,True,19,25
+Disc Envy,Baboon Heart,True,19,37
+Disc Envy,Booooooosh!,True,19,22
+Disc Envy,Moose Lightning,True,19,27
+Disc Envy,Rogues' Gallery,False,19,24
+Disc Envy,Lady and the BAMF,True,19,28
+Disc Envy,Top Shelf,True,19,38
+Disc Envy,Nerd Alert,False,19,26
+Disc Envy,TuneSquad Squared,True,19,31
+Store Bought Dirt,M.O.B.,True,20,65
+Store Bought Dirt,Underwater Monkey Cowboys,True,20,36
+Store Bought Dirt,Nerd Alert,True,20,26
+Store Bought Dirt,Dominion,False,20,23
+Store Bought Dirt,Fetch,True,20,21
+Store Bought Dirt,Top Shelf,True,20,38
+Store Bought Dirt,Tubbs,True,20,29
+Store Bought Dirt,Hipster Kitties,True,20,30
+Store Bought Dirt,123 Trap!,True,20,39
+Store Bought Dirt,TuneSquad Squared,True,20,31
+Store Bought Dirt,Stack to the Future,False,20,35
+Store Bought Dirt,A Lil Bit Sticky,False,20,25
+Store Bought Dirt,Flying Salsa,True,20,56
+Fetch,Baboon Heart,True,21,37
+Fetch,Booooooosh!,False,21,22
+Fetch,Lady and the BAMF,True,21,28
+Fetch,TuneSquad Squared,True,21,31
+Fetch,Lady and the BAMF,True,21,28
+Fetch,Tubbs,True,21,29
+Fetch,Booooooosh!,False,21,22
+Fetch,Moose Lightning,True,21,27
+Booooooosh!,Lady and the BAMF,True,22,28
+Booooooosh!,Tofu Wolf,True,22,59
+Dominion,Lady and the BAMF,True,23,28
+Dominion,TuneSquad Squared,True,23,31
+Dominion,Rogues' Gallery,True,23,24
+Dominion,Nerd Alert,True,23,26
+Dominion,Tubbs,True,23,29
+Rogues' Gallery,Nerd Alert,True,24,26
+Rogues' Gallery,Tubbs,True,24,29
+Rogues' Gallery,Stack to the Future,True,24,35
+Rogues' Gallery,Top Shelf,True,24,38
+Rogues' Gallery,SHRedline,True,24,51
+Rogues' Gallery,A Lil Bit Sticky,False,24,25
+Rogues' Gallery,Moose Lightning,False,24,27
+Rogues' Gallery,Hipster Kitties,True,24,30
+Rogues' Gallery,Oddjob,True,24,33
+A Lil Bit Sticky,Nerd Alert,True,25,26
+A Lil Bit Sticky,Tubbs,True,25,29
+A Lil Bit Sticky,Baba Yaga,False,25,45
+A Lil Bit Sticky,Hipster Kitties,True,25,30
+A Lil Bit Sticky,Moose Lightning,False,25,27
+Nerd Alert,Tubbs,True,26,29
+Nerd Alert,Get Flat Ultimate,False,26,49
+Nerd Alert,TuneSquad Squared,True,26,31
+Nerd Alert,Hipster Kitties,True,26,30
+Nerd Alert,123 Trap!,True,26,39
+Nerd Alert,Too Drunk to Fail,False,26,32
+Nerd Alert,Oddjob,False,26,33
+Moose Lightning,Tubbs,True,27,29
+Lady and the BAMF,Underwater Monkey Cowboys,True,28,36
+Lady and the BAMF,Baboon Heart,True,28,37
+Lady and the BAMF,Jiggy,True,28,63
+Lady and the BAMF,Baba Yaga,False,28,45
+Lady and the BAMF,Oddjob,False,28,33
+Lady and the BAMF,Stack to the Future,True,28,35
+Lady and the BAMF,Hipster Kitties,True,28,30
+Tubbs,Jiggy,True,29,63
+Tubbs,TuneSquad Squared,True,29,31
+Tubbs,Baba Yaga,False,29,45
+Hipster Kitties,123 Trap!,True,30,39
+Hipster Kitties,Tofu Wolf,True,30,59
+Hipster Kitties,Too Drunk to Fail,False,30,32
+Hipster Kitties,Spam,False,30,60
+Hipster Kitties,Underwater Monkey Cowboys,False,30,36
+TuneSquad Squared,Batman and the Robins,False,31,34
+TuneSquad Squared,Oddjob,False,31,33
+TuneSquad Squared,Stack to the Future,False,31,35
+TuneSquad Squared,Too Drunk to Fail,False,31,32
+Too Drunk to Fail,Underwater Monkey Cowboys,True,32,36
+Too Drunk to Fail,Oddjob,False,32,33
+Too Drunk to Fail,Stack to the Future,True,32,35
+Too Drunk to Fail,123 Trap!,True,32,39
+Too Drunk to Fail,Alpha No Beta,True,32,58
+Too Drunk to Fail,Jiggy,True,32,63
+Too Drunk to Fail,Batman and the Robins,True,32,34
+Too Drunk to Fail,Underwater Monkey Cowboys,True,32,36
+Too Drunk to Fail,Tofu Wolf,True,32,59
+Oddjob,Spam,True,33,60
+Oddjob,123 Trap!,True,33,39
+Oddjob,Tofu Wolf,False,33,59
+Oddjob,Alpha No Beta,False,33,58
+Oddjob,Batman and the Robins,True,33,34
+Oddjob,Spam,True,33,60
+Oddjob,Underwater Monkey Cowboys,True,33,36
+Oddjob,Tofu Wolf,False,33,59
+Oddjob,Stack to the Future,True,33,35
+Oddjob,Underwater Monkey Cowboys,True,33,36
+Oddjob,Killer Bees,True,33,61
+Oddjob,Baboon Heart,True,33,37
+Batman and the Robins,Stack to the Future,False,34,35
+Batman and the Robins,Killer Bees,True,34,61
+Batman and the Robins,123 Trap!,True,34,39
+Batman and the Robins,Baboon Heart,True,34,37
+Batman and the Robins,Underwater Monkey Cowboys,False,34,36
+Batman and the Robins,Rabbit Disc,False,34,54
+Batman and the Robins,Jiggy,True,34,63
+Batman and the Robins,Tofu Wolf,False,34,59
+Batman and the Robins,Spawning Alewives,True,34,66
+Stack to the Future,Spam,True,35,60
+Stack to the Future,Baboon Heart,False,35,37
+Stack to the Future,Shake and Bake,False,35,42
+Stack to the Future,Underwater Monkey Cowboys,True,35,36
+Stack to the Future,Spawning Alewives,True,35,66
+Stack to the Future,Rabbit Disc,False,35,54
+Stack to the Future,123 Trap!,True,35,39
+Stack to the Future,Tofu Wolf,False,35,59
+Stack to the Future,Alpha No Beta,True,35,58
+Stack to the Future,Top Shelf,False,35,38
+Stack to the Future,Killer Bees,True,35,61
+Underwater Monkey Cowboys,Tofu Wolf,True,36,59
+Underwater Monkey Cowboys,Baboon Heart,False,36,37
+Underwater Monkey Cowboys,Jiggy,False,36,63
+Underwater Monkey Cowboys,Top Shelf,True,36,38
+Underwater Monkey Cowboys,123 Trap!,True,36,39
+Underwater Monkey Cowboys,Jiggy,True,36,63
+Baboon Heart,Jiggy,True,37,63
+Baboon Heart,Killer Bees,True,37,61
+Baboon Heart,Rabbit Disc,False,37,54
+Top Shelf,Tofu Wolf,False,38,59
+Top Shelf,Jiggy,True,38,63
+123 Trap!,Tofu Wolf,False,39,59
+123 Trap!,Jiggy,True,39,63
+SnakeCountryBromance,Shake and Bake,True,40,42
+SnakeCountryBromance,SHRedline,True,40,51
+Stonecutters,Shake and Bake,True,41,42
+Stonecutters,Bacon,True,41,48
+Stonecutters,Hucky McThrowandcatch,True,41,50
+Stonecutters,JuJu Hex,True,41,43
+Stonecutters,Iron Squids,True,41,53
+Stonecutters,Get Flat Ultimate,True,41,49
+Stonecutters,Maverick,True,41,46
+Shake and Bake,Pink Flamingos,False,42,44
+Shake and Bake,The Funky Bunch,False,42,52
+Shake and Bake,Maverick,False,42,46
+Shake and Bake,SHRedline,False,42,51
+Shake and Bake,Iron Squids,True,42,53
+JuJu Hex,Get Flat Ultimate,False,43,49
+JuJu Hex,SIR!,True,43,64
+JuJu Hex,Flying Salsa,True,43,56
+JuJu Hex,Baba Yaga,True,43,45
+JuJu Hex,M.O.B.,True,43,65
+JuJu Hex,Baba Yaga,True,43,45
+JuJu Hex,Bacon,True,43,48
+JuJu Hex,Get Flat Ultimate,True,43,49
+JuJu Hex,Granite State Grass Stains,True,43,55
+JuJu Hex,Tofu Wolf,True,43,59
+JuJu Hex,SIR!,True,43,64
+JuJu Hex,Flying Salsa,True,43,56
+Pink Flamingos,Rabbit Disc,True,44,54
+Pink Flamingos,Get Flat Ultimate,True,44,49
+Pink Flamingos,The Funky Bunch,True,44,52
+Pink Flamingos,Bacon,True,44,48
+Pink Flamingos,Iron Squids,True,44,53
+Pink Flamingos,Maverick,False,44,46
+Pink Flamingos,Demons,True,44,57
+Pink Flamingos,SHRedline,True,44,51
+Pink Flamingos,Hippos,True,44,47
+Baba Yaga,Hucky McThrowandcatch,True,45,50
+Baba Yaga,Flying Salsa,True,45,56
+Baba Yaga,Bacon,True,45,48
+Baba Yaga,Demons,True,45,57
+Baba Yaga,Iron Squids,True,45,53
+Baba Yaga,Get Flat Ultimate,True,45,49
+Maverick,SHRedline,True,46,51
+Maverick,Alpha No Beta,True,46,58
+Maverick,Tofu Wolf,True,46,59
+Maverick,Hippos,True,46,47
+Maverick,Hucky McThrowandcatch,True,46,50
+Maverick,Iron Squids,True,46,53
+Maverick,Flying Salsa,True,46,56
+Maverick,Bacon,False,46,48
+Hippos,M.O.B.,True,47,65
+Hippos,THEM!,True,47,62
+Hippos,SHRedline,True,47,51
+Hippos,SIR!,True,47,64
+Hippos,Granite State Grass Stains,True,47,55
+Hippos,The Funky Bunch,True,47,52
+Hippos,Hucky McThrowandcatch,False,47,50
+Hippos,Iron Squids,True,47,53
+Hippos,SIR!,True,47,64
+Hippos,Flying Salsa,True,47,56
+Bacon,M.O.B.,True,48,65
+Bacon,SIR!,True,48,64
+Bacon,SIR!,True,48,64
+Bacon,THEM!,True,48,62
+Bacon,Get Flat Ultimate,True,48,49
+Bacon,Flying Salsa,True,48,56
+Get Flat Ultimate,Flying Salsa,True,49,56
+Get Flat Ultimate,M.O.B.,True,49,65
+Get Flat Ultimate,Spam,True,49,60
+Get Flat Ultimate,Iron Squids,True,49,53
+Get Flat Ultimate,SIR!,True,49,64
+Get Flat Ultimate,Killer Bees,True,49,61
+Get Flat Ultimate,Hucky McThrowandcatch,False,49,50
+Get Flat Ultimate,SHRedline,False,49,51
+Get Flat Ultimate,THEM!,True,49,62
+Get Flat Ultimate,Granite State Grass Stains,False,49,55
+Get Flat Ultimate,Rabbit Disc,True,49,54
+Hucky McThrowandcatch,SHRedline,True,50,51
+Hucky McThrowandcatch,Iron Squids,True,50,53
+Hucky McThrowandcatch,The Funky Bunch,True,50,52
+SHRedline,Iron Squids,True,51,53
+SHRedline,The Funky Bunch,True,51,52
+SHRedline,Spam,True,51,60
+The Funky Bunch,Demons,True,52,57
+The Funky Bunch,Rabbit Disc,True,52,54
+The Funky Bunch,Rabbit Disc,False,52,54
+Iron Squids,Flying Salsa,False,53,56
+Iron Squids,Tofu Wolf,True,53,59
+Rabbit Disc,Spam,True,54,60
+Rabbit Disc,Granite State Grass Stains,False,54,55
+Rabbit Disc,THEM!,True,54,62
+Rabbit Disc,Tofu Wolf,True,54,59
+Rabbit Disc,Spawning Alewives,True,54,66
+Rabbit Disc,SIR!,False,54,64
+Rabbit Disc,Spawning Alewives,True,54,66
+Rabbit Disc,Jiggy,True,54,63
+Rabbit Disc,Flying Salsa,False,54,56
+Rabbit Disc,Alpha No Beta,False,54,58
+Rabbit Disc,M.O.B.,True,54,65
+Granite State Grass Stains,Alpha No Beta,True,55,58
+Granite State Grass Stains,THEM!,True,55,62
+Granite State Grass Stains,Flying Salsa,False,55,56
+Granite State Grass Stains,Spawning Alewives,False,55,66
+Granite State Grass Stains,Demons,True,55,57
+Granite State Grass Stains,Spam,True,55,60
+Flying Salsa,THEM!,True,56,62
+Flying Salsa,M.O.B.,True,56,65
+Flying Salsa,Spam,True,56,60
+Flying Salsa,SIR!,True,56,64
+Flying Salsa,Alpha No Beta,True,56,58
+Flying Salsa,Spawning Alewives,True,56,66
+Flying Salsa,Tofu Wolf,True,56,59
+Flying Salsa,Killer Bees,True,56,61
+Flying Salsa,Demons,True,56,57
+Demons,Alpha No Beta,True,57,58
+Demons,SIR!,True,57,64
+Demons,Killer Bees,True,57,61
+Demons,Spawning Alewives,True,57,66
+Demons,Spam,False,57,60
+Alpha No Beta,Jiggy,False,58,63
+Alpha No Beta,THEM!,False,58,62
+Alpha No Beta,Spam,True,58,60
+Alpha No Beta,Spawning Alewives,True,58,66
+Alpha No Beta,Jiggy,True,58,63
+Alpha No Beta,Tofu Wolf,True,58,59
+Alpha No Beta,M.O.B.,True,58,65
+Alpha No Beta,Killer Bees,True,58,61
+Alpha No Beta,Tofu Wolf,False,58,59
+Alpha No Beta,SIR!,True,58,64
+Alpha No Beta,Jiggy,True,58,63
+Tofu Wolf,Spam,False,59,60
+Tofu Wolf,Jiggy,True,59,63
+Tofu Wolf,SIR!,False,59,64
+Tofu Wolf,Spawning Alewives,True,59,66
+Tofu Wolf,THEM!,True,59,62
+Tofu Wolf,Jiggy,False,59,63
+Tofu Wolf,Killer Bees,True,59,61
+Tofu Wolf,Spam,False,59,60
+Spam,M.O.B.,True,60,65
+Spam,THEM!,True,60,62
+Spam,Killer Bees,True,60,61
+Spam,Jiggy,True,60,63
+Spam,Jiggy,False,60,63
+Spam,SIR!,True,60,64
+Killer Bees,Spawning Alewives,True,61,66
+Killer Bees,SIR!,True,61,64
+Killer Bees,THEM!,True,61,62
+Killer Bees,Jiggy,False,61,63
+THEM!,M.O.B.,False,62,65
+THEM!,Spawning Alewives,True,62,66
+THEM!,SIR!,False,62,64
+THEM!,Jiggy,False,62,63
+SIR!,M.O.B.,True,64,65
+M.O.B.,Spawning Alewives,True,65,66

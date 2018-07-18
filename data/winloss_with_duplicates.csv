@@ -1,0 +1,1045 @@
+Team A,Team B,divname,Team A Wins,Index A,Index B,Div A,Div B
+AHOC,Gothrilla,4/3 Div 1,True,0,1,4/3 Div 1,4/3 Div 1
+AHOC,BBN,4/3 Div 1,True,0,9,4/3 Div 1,4/3 Div 1
+AHOC,Stonecutters,4/3 Div 1,True,0,41,4/3 Div 1,5/2 Div 1
+AHOC,FlowChart,4/3 Div 1,True,0,2,4/3 Div 1,4/3 Div 1
+AHOC,Lady and the BAMF,4/3 Div 1,True,0,28,4/3 Div 1,4/3 Div 2
+AHOC,Swingers,4/3 Div 1,True,0,5,4/3 Div 1,4/3 Div 1
+AHOC,Upstream,4/3 Div 1,True,0,10,4/3 Div 1,4/3 Div 2
+AHOC,Tubbs,4/3 Div 1,True,0,29,4/3 Div 1,4/3 Div 2
+AHOC,Stonecutters,4/3 Div 1,True,0,41,4/3 Div 1,5/2 Div 1
+AHOC,Zerg Rush!,4/3 Div 1,True,0,4,4/3 Div 1,4/3 Div 1
+AHOC,Turtle Boy,4/3 Div 1,True,0,7,4/3 Div 1,4/3 Div 1
+AHOC,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,0,8,4/3 Div 1,4/3 Div 1
+AHOC,TuneSquad,4/3 Div 1,True,0,6,4/3 Div 1,4/3 Div 1
+AHOC,JuJu Hex,4/3 Div 1,True,0,43,4/3 Div 1,5/2 Div 2
+Gothrilla,AHOC,4/3 Div 1,False,1,0,4/3 Div 1,4/3 Div 1
+Gothrilla,Swingers,4/3 Div 1,False,1,5,4/3 Div 1,4/3 Div 1
+Gothrilla,FlowChart,4/3 Div 1,True,1,2,4/3 Div 1,4/3 Div 1
+Gothrilla,Hucky McThrowandcatch,4/3 Div 1,True,1,50,4/3 Div 1,5/2 Div 2
+Gothrilla,SnakeCountryBromance,4/3 Div 1,False,1,40,4/3 Div 1,5/2 Div 1
+Gothrilla,Zerg Rush!,4/3 Div 1,False,1,4,4/3 Div 1,4/3 Div 1
+Gothrilla,GrassBurner,4/3 Div 1,True,1,3,4/3 Div 1,4/3 Div 1
+Gothrilla,Turtle Boy,4/3 Div 1,True,1,7,4/3 Div 1,4/3 Div 1
+Gothrilla,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,1,8,4/3 Div 1,4/3 Div 1
+Gothrilla,Upstream,4/3 Div 1,True,1,10,4/3 Div 1,4/3 Div 2
+Gothrilla,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,1,8,4/3 Div 1,4/3 Div 1
+Gothrilla,TuneSquad,4/3 Div 1,True,1,6,4/3 Div 1,4/3 Div 1
+Gothrilla,BBN,4/3 Div 1,True,1,9,4/3 Div 1,4/3 Div 1
+Gothrilla,Swingers,4/3 Div 1,True,1,5,4/3 Div 1,4/3 Div 1
+Gothrilla,Zerg Rush!,4/3 Div 1,True,1,4,4/3 Div 1,4/3 Div 1
+Gothrilla,GrassBurner,4/3 Div 1,False,1,3,4/3 Div 1,4/3 Div 1
+Gothrilla,Shake and Bake,4/3 Div 1,True,1,42,4/3 Div 1,5/2 Div 1
+FlowChart,Gothrilla,4/3 Div 1,False,2,1,4/3 Div 1,4/3 Div 1
+FlowChart,AHOC,4/3 Div 1,False,2,0,4/3 Div 1,4/3 Div 1
+FlowChart,GrassBurner,4/3 Div 1,True,2,3,4/3 Div 1,4/3 Div 1
+FlowChart,Dominion,4/3 Div 1,True,2,23,4/3 Div 1,4/3 Div 2
+FlowChart,GrassBurner,4/3 Div 1,True,2,3,4/3 Div 1,4/3 Div 1
+FlowChart,Rogues' Gallery,4/3 Div 1,True,2,24,4/3 Div 1,4/3 Div 2
+FlowChart,Moose Lightning,4/3 Div 1,True,2,27,4/3 Div 1,4/3 Div 2
+FlowChart,Swingers,4/3 Div 1,True,2,5,4/3 Div 1,4/3 Div 1
+FlowChart,JHOP,4/3 Div 1,True,2,17,4/3 Div 1,4/3 Div 2
+FlowChart,TuneSquad,4/3 Div 1,True,2,6,4/3 Div 1,4/3 Div 1
+FlowChart,Turtle Boy,4/3 Div 1,True,2,7,4/3 Div 1,4/3 Div 1
+FlowChart,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,2,8,4/3 Div 1,4/3 Div 1
+FlowChart,Upstream,4/3 Div 1,False,2,10,4/3 Div 1,4/3 Div 2
+FlowChart,Fetch,4/3 Div 1,True,2,21,4/3 Div 1,4/3 Div 2
+FlowChart,BBN,4/3 Div 1,True,2,9,4/3 Div 1,4/3 Div 1
+FlowChart,Zerg Rush!,4/3 Div 1,False,2,4,4/3 Div 1,4/3 Div 1
+GrassBurner,BBN,4/3 Div 1,True,3,9,4/3 Div 1,4/3 Div 1
+GrassBurner,TuneSquad,4/3 Div 1,True,3,6,4/3 Div 1,4/3 Div 1
+GrassBurner,Disc Envy,4/3 Div 1,True,3,19,4/3 Div 1,4/3 Div 2
+GrassBurner,Hipster Kitties,4/3 Div 1,True,3,30,4/3 Div 1,4/3 Div 2
+GrassBurner,SnakeCountryBromance,4/3 Div 1,False,3,40,4/3 Div 1,5/2 Div 1
+GrassBurner,BBN,4/3 Div 1,True,3,9,4/3 Div 1,4/3 Div 1
+GrassBurner,FlowChart,4/3 Div 1,False,3,2,4/3 Div 1,4/3 Div 1
+GrassBurner,Gothrilla,4/3 Div 1,False,3,1,4/3 Div 1,4/3 Div 1
+GrassBurner,FlowChart,4/3 Div 1,False,3,2,4/3 Div 1,4/3 Div 1
+GrassBurner,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,3,8,4/3 Div 1,4/3 Div 1
+GrassBurner,JuJu Hex,4/3 Div 1,False,3,43,4/3 Div 1,5/2 Div 2
+GrassBurner,Puddingstone,4/3 Div 1,True,3,12,4/3 Div 1,4/3 Div 2
+GrassBurner,Swingers,4/3 Div 1,False,3,5,4/3 Div 1,4/3 Div 1
+GrassBurner,Zerg Rush!,4/3 Div 1,False,3,4,4/3 Div 1,4/3 Div 1
+GrassBurner,JHOP,4/3 Div 1,True,3,17,4/3 Div 1,4/3 Div 2
+GrassBurner,Moose Lightning,4/3 Div 1,False,3,27,4/3 Div 1,4/3 Div 2
+GrassBurner,Turtle Boy,4/3 Div 1,True,3,7,4/3 Div 1,4/3 Div 1
+GrassBurner,Rogues' Gallery,4/3 Div 1,False,3,24,4/3 Div 1,4/3 Div 2
+GrassBurner,Gothrilla,4/3 Div 1,False,3,1,4/3 Div 1,4/3 Div 1
+GrassBurner,SHRedline,4/3 Div 1,True,3,51,4/3 Div 1,5/2 Div 2
+GrassBurner,Stonecutters,4/3 Div 1,True,3,41,4/3 Div 1,5/2 Div 1
+Zerg Rush!,TuneSquad,4/3 Div 1,True,4,6,4/3 Div 1,4/3 Div 1
+Zerg Rush!,SnakeCountryBromance,4/3 Div 1,False,4,40,4/3 Div 1,5/2 Div 1
+Zerg Rush!,Moose Lightning,4/3 Div 1,True,4,27,4/3 Div 1,4/3 Div 2
+Zerg Rush!,Swingers,4/3 Div 1,True,4,5,4/3 Div 1,4/3 Div 1
+Zerg Rush!,Gothrilla,4/3 Div 1,True,4,1,4/3 Div 1,4/3 Div 1
+Zerg Rush!,Turtle Boy,4/3 Div 1,True,4,7,4/3 Div 1,4/3 Div 1
+Zerg Rush!,Injustice League,4/3 Div 1,True,4,11,4/3 Div 1,4/3 Div 2
+Zerg Rush!,Puddingstone,4/3 Div 1,False,4,12,4/3 Div 1,4/3 Div 2
+Zerg Rush!,AHOC,4/3 Div 1,False,4,0,4/3 Div 1,4/3 Div 1
+Zerg Rush!,GrassBurner,4/3 Div 1,True,4,3,4/3 Div 1,4/3 Div 1
+Zerg Rush!,Fetch,4/3 Div 1,True,4,21,4/3 Div 1,4/3 Div 2
+Zerg Rush!,Gothrilla,4/3 Div 1,False,4,1,4/3 Div 1,4/3 Div 1
+Zerg Rush!,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,4,8,4/3 Div 1,4/3 Div 1
+Zerg Rush!,FlowChart,4/3 Div 1,True,4,2,4/3 Div 1,4/3 Div 1
+Swingers,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,False,5,8,4/3 Div 1,4/3 Div 1
+Swingers,JHOP,4/3 Div 1,True,5,17,4/3 Div 1,4/3 Div 2
+Swingers,Gothrilla,4/3 Div 1,True,5,1,4/3 Div 1,4/3 Div 1
+Swingers,TuneSquad,4/3 Div 1,False,5,6,4/3 Div 1,4/3 Div 1
+Swingers,Zerg Rush!,4/3 Div 1,False,5,4,4/3 Div 1,4/3 Div 1
+Swingers,BBN,4/3 Div 1,True,5,9,4/3 Div 1,4/3 Div 1
+Swingers,AHOC,4/3 Div 1,False,5,0,4/3 Div 1,4/3 Div 1
+Swingers,FlowChart,4/3 Div 1,False,5,2,4/3 Div 1,4/3 Div 1
+Swingers,Turtle Boy,4/3 Div 1,True,5,7,4/3 Div 1,4/3 Div 1
+Swingers,GrassBurner,4/3 Div 1,True,5,3,4/3 Div 1,4/3 Div 1
+Swingers,Shake and Bake,4/3 Div 1,False,5,42,4/3 Div 1,5/2 Div 1
+Swingers,Gothrilla,4/3 Div 1,False,5,1,4/3 Div 1,4/3 Div 1
+Swingers,Stonecutters,4/3 Div 1,False,5,41,4/3 Div 1,5/2 Div 1
+TuneSquad,TuneSquad Squared,4/3 Div 1,True,6,31,4/3 Div 1,4/3 Div 2
+TuneSquad,Zerg Rush!,4/3 Div 1,False,6,4,4/3 Div 1,4/3 Div 1
+TuneSquad,GrassBurner,4/3 Div 1,False,6,3,4/3 Div 1,4/3 Div 1
+TuneSquad,Puddingstone,4/3 Div 1,True,6,12,4/3 Div 1,4/3 Div 2
+TuneSquad,Shake and Bake,4/3 Div 1,False,6,42,4/3 Div 1,5/2 Div 1
+TuneSquad,Swingers,4/3 Div 1,True,6,5,4/3 Div 1,4/3 Div 1
+TuneSquad,Puddingstone,4/3 Div 1,False,6,12,4/3 Div 1,4/3 Div 2
+TuneSquad,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,6,8,4/3 Div 1,4/3 Div 1
+TuneSquad,BBN,4/3 Div 1,False,6,9,4/3 Div 1,4/3 Div 1
+TuneSquad,Dominion,4/3 Div 1,True,6,23,4/3 Div 1,4/3 Div 2
+TuneSquad,FlowChart,4/3 Div 1,False,6,2,4/3 Div 1,4/3 Div 1
+TuneSquad,Gothrilla,4/3 Div 1,False,6,1,4/3 Div 1,4/3 Div 1
+TuneSquad,AHOC,4/3 Div 1,False,6,0,4/3 Div 1,4/3 Div 1
+TuneSquad,Turtle Boy,4/3 Div 1,True,6,7,4/3 Div 1,4/3 Div 1
+Turtle Boy,Injustice League,4/3 Div 1,False,7,11,4/3 Div 1,4/3 Div 2
+Turtle Boy,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,7,8,4/3 Div 1,4/3 Div 1
+Turtle Boy,Puddingstone,4/3 Div 1,False,7,12,4/3 Div 1,4/3 Div 2
+Turtle Boy,Lady and the BAMF,4/3 Div 1,True,7,28,4/3 Div 1,4/3 Div 2
+Turtle Boy,Dominion,4/3 Div 1,True,7,23,4/3 Div 1,4/3 Div 2
+Turtle Boy,Upstream,4/3 Div 1,False,7,10,4/3 Div 1,4/3 Div 2
+Turtle Boy,Gothrilla,4/3 Div 1,False,7,1,4/3 Div 1,4/3 Div 1
+Turtle Boy,Zerg Rush!,4/3 Div 1,False,7,4,4/3 Div 1,4/3 Div 1
+Turtle Boy,Shake and Bake,4/3 Div 1,True,7,42,4/3 Div 1,5/2 Div 1
+Turtle Boy,Swingers,4/3 Div 1,False,7,5,4/3 Div 1,4/3 Div 1
+Turtle Boy,Stonecutters,4/3 Div 1,True,7,41,4/3 Div 1,5/2 Div 1
+Turtle Boy,AHOC,4/3 Div 1,False,7,0,4/3 Div 1,4/3 Div 1
+Turtle Boy,FlowChart,4/3 Div 1,False,7,2,4/3 Div 1,4/3 Div 1
+Turtle Boy,GrassBurner,4/3 Div 1,False,7,3,4/3 Div 1,4/3 Div 1
+Turtle Boy,TuneSquad,4/3 Div 1,False,7,6,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Swingers,4/3 Div 1,True,8,5,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",BBN,4/3 Div 1,False,8,9,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Turtle Boy,4/3 Div 1,False,8,7,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Rogues' Gallery,4/3 Div 1,True,8,24,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Upstream,4/3 Div 1,True,8,10,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Rubs The Duckie,4/3 Div 1,False,8,18,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Lady and the BAMF,4/3 Div 1,True,8,28,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Hucky McThrowandcatch,4/3 Div 1,True,8,50,4/3 Div 1,5/2 Div 2
+"Live Poultry, Fresh Killed (LPFK)",TuneSquad,4/3 Div 1,False,8,6,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",GrassBurner,4/3 Div 1,False,8,3,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Gothrilla,4/3 Div 1,False,8,1,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Injustice League,4/3 Div 1,False,8,11,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Tubbs,4/3 Div 1,True,8,29,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Gothrilla,4/3 Div 1,False,8,1,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",AHOC,4/3 Div 1,False,8,0,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",License to Kilt (fka Scoobers in Scotland),4/3 Div 1,False,8,15,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",FlowChart,4/3 Div 1,False,8,2,4/3 Div 1,4/3 Div 1
+"Live Poultry, Fresh Killed (LPFK)",Puddingstone,4/3 Div 1,False,8,12,4/3 Div 1,4/3 Div 2
+"Live Poultry, Fresh Killed (LPFK)",Zerg Rush!,4/3 Div 1,False,8,4,4/3 Div 1,4/3 Div 1
+BBN,GrassBurner,4/3 Div 1,False,9,3,4/3 Div 1,4/3 Div 1
+BBN,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 1,True,9,8,4/3 Div 1,4/3 Div 1
+BBN,AHOC,4/3 Div 1,False,9,0,4/3 Div 1,4/3 Div 1
+BBN,Shake and Bake,4/3 Div 1,False,9,42,4/3 Div 1,5/2 Div 1
+BBN,GrassBurner,4/3 Div 1,False,9,3,4/3 Div 1,4/3 Div 1
+BBN,Swingers,4/3 Div 1,False,9,5,4/3 Div 1,4/3 Div 1
+BBN,TuneSquad,4/3 Div 1,True,9,6,4/3 Div 1,4/3 Div 1
+BBN,Injustice League,4/3 Div 1,False,9,11,4/3 Div 1,4/3 Div 2
+BBN,Stonecutters,4/3 Div 1,False,9,41,4/3 Div 1,5/2 Div 1
+BBN,Gothrilla,4/3 Div 1,False,9,1,4/3 Div 1,4/3 Div 1
+BBN,FlowChart,4/3 Div 1,False,9,2,4/3 Div 1,4/3 Div 1
+Upstream,Store Bought Dirt,4/3 Div 2,True,10,20,4/3 Div 2,4/3 Div 2
+Upstream,Too Drunk to Fail,4/3 Div 2,True,10,32,4/3 Div 2,4/3 Div 3
+Upstream,Jack's Abby HAOS Lager,4/3 Div 2,False,10,14,4/3 Div 2,4/3 Div 2
+Upstream,Lady and the BAMF,4/3 Div 2,True,10,28,4/3 Div 2,4/3 Div 2
+Upstream,Moose Lightning,4/3 Div 2,True,10,27,4/3 Div 2,4/3 Div 2
+Upstream,JHOP,4/3 Div 2,True,10,17,4/3 Div 2,4/3 Div 2
+Upstream,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,False,10,8,4/3 Div 2,4/3 Div 1
+Upstream,Underwater Monkey Cowboys,4/3 Div 2,True,10,36,4/3 Div 2,4/3 Div 3
+Upstream,SHRedline,4/3 Div 2,True,10,51,4/3 Div 2,5/2 Div 2
+Upstream,Turtle Boy,4/3 Div 2,True,10,7,4/3 Div 2,4/3 Div 1
+Upstream,Disc Envy,4/3 Div 2,True,10,19,4/3 Div 2,4/3 Div 2
+Upstream,Toads,4/3 Div 2,True,10,16,4/3 Div 2,4/3 Div 2
+Upstream,Puddingstone,4/3 Div 2,True,10,12,4/3 Div 2,4/3 Div 2
+Upstream,AHOC,4/3 Div 2,False,10,0,4/3 Div 2,4/3 Div 1
+Upstream,Jack's Abby HAOS Lager,4/3 Div 2,False,10,14,4/3 Div 2,4/3 Div 2
+Upstream,Gothrilla,4/3 Div 2,False,10,1,4/3 Div 2,4/3 Div 1
+Upstream,JHOP,4/3 Div 2,True,10,17,4/3 Div 2,4/3 Div 2
+Upstream,TuneSquad Squared,4/3 Div 2,True,10,31,4/3 Div 2,4/3 Div 2
+Upstream,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,True,10,15,4/3 Div 2,4/3 Div 2
+Upstream,A Lil Bit Sticky,4/3 Div 2,True,10,25,4/3 Div 2,4/3 Div 2
+Upstream,Hipster Kitties,4/3 Div 2,False,10,30,4/3 Div 2,4/3 Div 2
+Upstream,Tubbs,4/3 Div 2,True,10,29,4/3 Div 2,4/3 Div 2
+Upstream,FlowChart,4/3 Div 2,True,10,2,4/3 Div 2,4/3 Div 1
+Upstream,Store Bought Dirt,4/3 Div 2,True,10,20,4/3 Div 2,4/3 Div 2
+Upstream,Nerd Alert,4/3 Div 2,True,10,26,4/3 Div 2,4/3 Div 2
+Upstream,Fetch,4/3 Div 2,True,10,21,4/3 Div 2,4/3 Div 2
+Injustice League,Turtle Boy,4/3 Div 2,True,11,7,4/3 Div 2,4/3 Div 1
+Injustice League,A Lil Bit Sticky,4/3 Div 2,True,11,25,4/3 Div 2,4/3 Div 2
+Injustice League,Jack's Abby HAOS Lager,4/3 Div 2,True,11,14,4/3 Div 2,4/3 Div 2
+Injustice League,Hipster Kitties,4/3 Div 2,True,11,30,4/3 Div 2,4/3 Div 2
+Injustice League,Moose Lightning,4/3 Div 2,True,11,27,4/3 Div 2,4/3 Div 2
+Injustice League,Tubbs,4/3 Div 2,True,11,29,4/3 Div 2,4/3 Div 2
+Injustice League,Booooooosh!,4/3 Div 2,True,11,22,4/3 Div 2,4/3 Div 2
+Injustice League,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,True,11,8,4/3 Div 2,4/3 Div 1
+Injustice League,Zerg Rush!,4/3 Div 2,False,11,4,4/3 Div 2,4/3 Div 1
+Injustice League,Dominion,4/3 Div 2,True,11,23,4/3 Div 2,4/3 Div 2
+Injustice League,Fetch,4/3 Div 2,True,11,21,4/3 Div 2,4/3 Div 2
+Injustice League,BBN,4/3 Div 2,True,11,9,4/3 Div 2,4/3 Div 1
+Injustice League,Hipster Kitties,4/3 Div 2,True,11,30,4/3 Div 2,4/3 Div 2
+Injustice League,Rogues' Gallery,4/3 Div 2,True,11,24,4/3 Div 2,4/3 Div 2
+Injustice League,Puddingstone,4/3 Div 2,True,11,12,4/3 Div 2,4/3 Div 2
+Puddingstone,Nerd Alert,4/3 Div 2,True,12,26,4/3 Div 2,4/3 Div 2
+Puddingstone,Dominion,4/3 Div 2,True,12,23,4/3 Div 2,4/3 Div 2
+Puddingstone,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,True,12,15,4/3 Div 2,4/3 Div 2
+Puddingstone,Moose Lightning,4/3 Div 2,True,12,27,4/3 Div 2,4/3 Div 2
+Puddingstone,TuneSquad,4/3 Div 2,False,12,6,4/3 Div 2,4/3 Div 1
+Puddingstone,Rubs The Duckie,4/3 Div 2,True,12,18,4/3 Div 2,4/3 Div 2
+Puddingstone,Turtle Boy,4/3 Div 2,True,12,7,4/3 Div 2,4/3 Div 1
+Puddingstone,Toads,4/3 Div 2,True,12,16,4/3 Div 2,4/3 Div 2
+Puddingstone,Hipster Kitties,4/3 Div 2,True,12,30,4/3 Div 2,4/3 Div 2
+Puddingstone,Fetch,4/3 Div 2,True,12,21,4/3 Div 2,4/3 Div 2
+Puddingstone,TuneSquad,4/3 Div 2,True,12,6,4/3 Div 2,4/3 Div 1
+Puddingstone,The Funky Bunch,4/3 Div 2,True,12,52,4/3 Div 2,5/2 Div 2
+Puddingstone,Upstream,4/3 Div 2,False,12,10,4/3 Div 2,4/3 Div 2
+Puddingstone,JHOP,4/3 Div 2,True,12,17,4/3 Div 2,4/3 Div 2
+Puddingstone,Rogues' Gallery,4/3 Div 2,True,12,24,4/3 Div 2,4/3 Div 2
+Puddingstone,GrassBurner,4/3 Div 2,False,12,3,4/3 Div 2,4/3 Div 1
+Puddingstone,Zerg Rush!,4/3 Div 2,True,12,4,4/3 Div 2,4/3 Div 1
+Puddingstone,Store Bought Dirt,4/3 Div 2,True,12,20,4/3 Div 2,4/3 Div 2
+Puddingstone,Maverick,4/3 Div 2,False,12,46,4/3 Div 2,5/2 Div 2
+Puddingstone,Jack's Abby HAOS Lager,4/3 Div 2,False,12,14,4/3 Div 2,4/3 Div 2
+Puddingstone,Injustice League,4/3 Div 2,False,12,11,4/3 Div 2,4/3 Div 2
+Puddingstone,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,True,12,8,4/3 Div 2,4/3 Div 1
+Puddingstone,A Lil Bit Sticky,4/3 Div 2,True,12,25,4/3 Div 2,4/3 Div 2
+Puddingstone,TuneSquad Squared,4/3 Div 2,True,12,31,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Demons,4/3 Div 2,False,13,57,4/3 Div 2,5/2 Div 3
+Flaming Croissants,Dominion,4/3 Div 2,True,13,23,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Spam,4/3 Div 2,True,13,60,4/3 Div 2,5/2 Div 3
+Flaming Croissants,Top Shelf,4/3 Div 2,True,13,38,4/3 Div 2,4/3 Div 3
+Flaming Croissants,Fetch,4/3 Div 2,True,13,21,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Store Bought Dirt,4/3 Div 2,False,13,20,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Moose Lightning,4/3 Div 2,True,13,27,4/3 Div 2,4/3 Div 2
+Flaming Croissants,A Lil Bit Sticky,4/3 Div 2,True,13,25,4/3 Div 2,4/3 Div 2
+Flaming Croissants,JHOP,4/3 Div 2,False,13,17,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Nerd Alert,4/3 Div 2,True,13,26,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Rubs The Duckie,4/3 Div 2,True,13,18,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Underwater Monkey Cowboys,4/3 Div 2,True,13,36,4/3 Div 2,4/3 Div 3
+Flaming Croissants,Disc Envy,4/3 Div 2,True,13,19,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Oddjob,4/3 Div 2,True,13,33,4/3 Div 2,4/3 Div 3
+Flaming Croissants,Jack's Abby HAOS Lager,4/3 Div 2,False,13,14,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Booooooosh!,4/3 Div 2,True,13,22,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Stack to the Future,4/3 Div 2,True,13,35,4/3 Div 2,4/3 Div 3
+Flaming Croissants,Baboon Heart,4/3 Div 2,False,13,37,4/3 Div 2,4/3 Div 3
+Flaming Croissants,Rogues' Gallery,4/3 Div 2,True,13,24,4/3 Div 2,4/3 Div 2
+Flaming Croissants,Hipster Kitties,4/3 Div 2,True,13,30,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,TuneSquad Squared,4/3 Div 2,True,14,31,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Upstream,4/3 Div 2,True,14,10,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Injustice League,4/3 Div 2,False,14,11,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Lady and the BAMF,4/3 Div 2,True,14,28,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Toads,4/3 Div 2,False,14,16,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Store Bought Dirt,4/3 Div 2,True,14,20,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Upstream,4/3 Div 2,True,14,10,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,True,14,15,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Flaming Croissants,4/3 Div 2,True,14,13,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,A Lil Bit Sticky,4/3 Div 2,True,14,25,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Puddingstone,4/3 Div 2,True,14,12,4/3 Div 2,4/3 Div 2
+Jack's Abby HAOS Lager,Disc Envy,4/3 Div 2,True,14,19,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Pink Flamingos,4/3 Div 2,False,15,44,4/3 Div 2,5/2 Div 2
+License to Kilt (fka Scoobers in Scotland),Puddingstone,4/3 Div 2,False,15,12,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Fetch,4/3 Div 2,True,15,21,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Nerd Alert,4/3 Div 2,True,15,26,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Tubbs,4/3 Div 2,True,15,29,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Store Bought Dirt,4/3 Div 2,True,15,20,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),JHOP,4/3 Div 2,False,15,17,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Stack to the Future,4/3 Div 2,True,15,35,4/3 Div 2,4/3 Div 3
+License to Kilt (fka Scoobers in Scotland),Toads,4/3 Div 2,True,15,16,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Rubs The Duckie,4/3 Div 2,True,15,18,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Rogues' Gallery,4/3 Div 2,True,15,24,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Jack's Abby HAOS Lager,4/3 Div 2,False,15,14,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),SHRedline,4/3 Div 2,False,15,51,4/3 Div 2,5/2 Div 2
+License to Kilt (fka Scoobers in Scotland),Moose Lightning,4/3 Div 2,True,15,27,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Upstream,4/3 Div 2,False,15,10,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Hipster Kitties,4/3 Div 2,True,15,30,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,True,15,8,4/3 Div 2,4/3 Div 1
+License to Kilt (fka Scoobers in Scotland),A Lil Bit Sticky,4/3 Div 2,True,15,25,4/3 Div 2,4/3 Div 2
+License to Kilt (fka Scoobers in Scotland),Booooooosh!,4/3 Div 2,True,15,22,4/3 Div 2,4/3 Div 2
+Toads,Baboon Heart,4/3 Div 2,True,16,37,4/3 Div 2,4/3 Div 3
+Toads,Store Bought Dirt,4/3 Div 2,False,16,20,4/3 Div 2,4/3 Div 2
+Toads,Top Shelf,4/3 Div 2,True,16,38,4/3 Div 2,4/3 Div 3
+Toads,Lady and the BAMF,4/3 Div 2,True,16,28,4/3 Div 2,4/3 Div 2
+Toads,A Lil Bit Sticky,4/3 Div 2,True,16,25,4/3 Div 2,4/3 Div 2
+Toads,Spam,4/3 Div 2,True,16,60,4/3 Div 2,5/2 Div 3
+Toads,Puddingstone,4/3 Div 2,False,16,12,4/3 Div 2,4/3 Div 2
+Toads,Rabbit Disc,4/3 Div 2,True,16,54,4/3 Div 2,5/2 Div 3
+Toads,Rogues' Gallery,4/3 Div 2,True,16,24,4/3 Div 2,4/3 Div 2
+Toads,Jack's Abby HAOS Lager,4/3 Div 2,True,16,14,4/3 Div 2,4/3 Div 2
+Toads,Moose Lightning,4/3 Div 2,True,16,27,4/3 Div 2,4/3 Div 2
+Toads,Upstream,4/3 Div 2,False,16,10,4/3 Div 2,4/3 Div 2
+Toads,TuneSquad Squared,4/3 Div 2,True,16,31,4/3 Div 2,4/3 Div 2
+Toads,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,16,15,4/3 Div 2,4/3 Div 2
+Toads,Lady and the BAMF,4/3 Div 2,True,16,28,4/3 Div 2,4/3 Div 2
+Toads,Store Bought Dirt,4/3 Div 2,False,16,20,4/3 Div 2,4/3 Div 2
+Toads,Nerd Alert,4/3 Div 2,False,16,26,4/3 Div 2,4/3 Div 2
+Toads,Tubbs,4/3 Div 2,True,16,29,4/3 Div 2,4/3 Div 2
+Toads,JHOP,4/3 Div 2,True,16,17,4/3 Div 2,4/3 Div 2
+Toads,Killer Bees,4/3 Div 2,True,16,61,4/3 Div 2,5/2 Div 3
+Toads,Rubs The Duckie,4/3 Div 2,False,16,18,4/3 Div 2,4/3 Div 2
+Toads,Underwater Monkey Cowboys,4/3 Div 2,True,16,36,4/3 Div 2,4/3 Div 3
+Toads,Fetch,4/3 Div 2,False,16,21,4/3 Div 2,4/3 Div 2
+JHOP,Fetch,4/3 Div 2,False,17,21,4/3 Div 2,4/3 Div 2
+JHOP,Swingers,4/3 Div 2,False,17,5,4/3 Div 2,4/3 Div 1
+JHOP,Store Bought Dirt,4/3 Div 2,True,17,20,4/3 Div 2,4/3 Div 2
+JHOP,Upstream,4/3 Div 2,False,17,10,4/3 Div 2,4/3 Div 2
+JHOP,Top Shelf,4/3 Div 2,True,17,38,4/3 Div 2,4/3 Div 3
+JHOP,Tubbs,4/3 Div 2,True,17,29,4/3 Div 2,4/3 Div 2
+JHOP,Stack to the Future,4/3 Div 2,True,17,35,4/3 Div 2,4/3 Div 3
+JHOP,Disc Envy,4/3 Div 2,True,17,19,4/3 Div 2,4/3 Div 2
+JHOP,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,True,17,15,4/3 Div 2,4/3 Div 2
+JHOP,Flaming Croissants,4/3 Div 2,True,17,13,4/3 Div 2,4/3 Div 2
+JHOP,Oddjob,4/3 Div 2,True,17,33,4/3 Div 2,4/3 Div 3
+JHOP,Puddingstone,4/3 Div 2,False,17,12,4/3 Div 2,4/3 Div 2
+JHOP,Booooooosh!,4/3 Div 2,True,17,22,4/3 Div 2,4/3 Div 2
+JHOP,FlowChart,4/3 Div 2,False,17,2,4/3 Div 2,4/3 Div 1
+JHOP,Upstream,4/3 Div 2,False,17,10,4/3 Div 2,4/3 Div 2
+JHOP,Toads,4/3 Div 2,False,17,16,4/3 Div 2,4/3 Div 2
+JHOP,Rogues' Gallery,4/3 Div 2,False,17,24,4/3 Div 2,4/3 Div 2
+JHOP,GrassBurner,4/3 Div 2,False,17,3,4/3 Div 2,4/3 Div 1
+JHOP,Nerd Alert,4/3 Div 2,True,17,26,4/3 Div 2,4/3 Div 2
+JHOP,TuneSquad Squared,4/3 Div 2,True,17,31,4/3 Div 2,4/3 Div 2
+JHOP,Lady and the BAMF,4/3 Div 2,True,17,28,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Moose Lightning,4/3 Div 2,True,18,27,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Nerd Alert,4/3 Div 2,False,18,26,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Puddingstone,4/3 Div 2,False,18,12,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Hipster Kitties,4/3 Div 2,True,18,30,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,TuneSquad Squared,4/3 Div 2,True,18,31,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,True,18,8,4/3 Div 2,4/3 Div 1
+Rubs The Duckie,Store Bought Dirt,4/3 Div 2,True,18,20,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Flaming Croissants,4/3 Div 2,False,18,13,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,18,15,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Dominion,4/3 Div 2,True,18,23,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Toads,4/3 Div 2,True,18,16,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Rogues' Gallery,4/3 Div 2,True,18,24,4/3 Div 2,4/3 Div 2
+Rubs The Duckie,Disc Envy,4/3 Div 2,True,18,19,4/3 Div 2,4/3 Div 2
+Disc Envy,Store Bought Dirt,4/3 Div 2,True,19,20,4/3 Div 2,4/3 Div 2
+Disc Envy,Fetch,4/3 Div 2,True,19,21,4/3 Div 2,4/3 Div 2
+Disc Envy,GrassBurner,4/3 Div 2,False,19,3,4/3 Div 2,4/3 Div 1
+Disc Envy,A Lil Bit Sticky,4/3 Div 2,True,19,25,4/3 Div 2,4/3 Div 2
+Disc Envy,Baboon Heart,4/3 Div 2,True,19,37,4/3 Div 2,4/3 Div 3
+Disc Envy,JHOP,4/3 Div 2,False,19,17,4/3 Div 2,4/3 Div 2
+Disc Envy,Upstream,4/3 Div 2,False,19,10,4/3 Div 2,4/3 Div 2
+Disc Envy,Booooooosh!,4/3 Div 2,True,19,22,4/3 Div 2,4/3 Div 2
+Disc Envy,Moose Lightning,4/3 Div 2,True,19,27,4/3 Div 2,4/3 Div 2
+Disc Envy,Flaming Croissants,4/3 Div 2,False,19,13,4/3 Div 2,4/3 Div 2
+Disc Envy,Rogues' Gallery,4/3 Div 2,False,19,24,4/3 Div 2,4/3 Div 2
+Disc Envy,Lady and the BAMF,4/3 Div 2,True,19,28,4/3 Div 2,4/3 Div 2
+Disc Envy,Top Shelf,4/3 Div 2,True,19,38,4/3 Div 2,4/3 Div 3
+Disc Envy,Jack's Abby HAOS Lager,4/3 Div 2,False,19,14,4/3 Div 2,4/3 Div 2
+Disc Envy,Nerd Alert,4/3 Div 2,False,19,26,4/3 Div 2,4/3 Div 2
+Disc Envy,TuneSquad Squared,4/3 Div 2,True,19,31,4/3 Div 2,4/3 Div 2
+Disc Envy,Rubs The Duckie,4/3 Div 2,False,19,18,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Upstream,4/3 Div 2,False,20,10,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,M.O.B.,4/3 Div 2,True,20,65,4/3 Div 2,5/2 Div 3
+Store Bought Dirt,Disc Envy,4/3 Div 2,False,20,19,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Underwater Monkey Cowboys,4/3 Div 2,True,20,36,4/3 Div 2,4/3 Div 3
+Store Bought Dirt,Toads,4/3 Div 2,True,20,16,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,JHOP,4/3 Div 2,False,20,17,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Nerd Alert,4/3 Div 2,True,20,26,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Dominion,4/3 Div 2,False,20,23,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Fetch,4/3 Div 2,True,20,21,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Flaming Croissants,4/3 Div 2,True,20,13,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,20,15,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Rubs The Duckie,4/3 Div 2,False,20,18,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Jack's Abby HAOS Lager,4/3 Div 2,False,20,14,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Top Shelf,4/3 Div 2,True,20,38,4/3 Div 2,4/3 Div 3
+Store Bought Dirt,Tubbs,4/3 Div 2,True,20,29,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Hipster Kitties,4/3 Div 2,True,20,30,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Toads,4/3 Div 2,True,20,16,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,123 Trap!,4/3 Div 2,True,20,39,4/3 Div 2,4/3 Div 3
+Store Bought Dirt,Puddingstone,4/3 Div 2,False,20,12,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,TuneSquad Squared,4/3 Div 2,True,20,31,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Stack to the Future,4/3 Div 2,False,20,35,4/3 Div 2,4/3 Div 3
+Store Bought Dirt,A Lil Bit Sticky,4/3 Div 2,False,20,25,4/3 Div 2,4/3 Div 2
+Store Bought Dirt,Flying Salsa,4/3 Div 2,True,20,56,4/3 Div 2,5/2 Div 3
+Store Bought Dirt,Upstream,4/3 Div 2,False,20,10,4/3 Div 2,4/3 Div 2
+Fetch,JHOP,4/3 Div 2,True,21,17,4/3 Div 2,4/3 Div 2
+Fetch,Disc Envy,4/3 Div 2,False,21,19,4/3 Div 2,4/3 Div 2
+Fetch,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,21,15,4/3 Div 2,4/3 Div 2
+Fetch,Flaming Croissants,4/3 Div 2,False,21,13,4/3 Div 2,4/3 Div 2
+Fetch,Store Bought Dirt,4/3 Div 2,False,21,20,4/3 Div 2,4/3 Div 2
+Fetch,Puddingstone,4/3 Div 2,False,21,12,4/3 Div 2,4/3 Div 2
+Fetch,Baboon Heart,4/3 Div 2,True,21,37,4/3 Div 2,4/3 Div 3
+Fetch,Booooooosh!,4/3 Div 2,False,21,22,4/3 Div 2,4/3 Div 2
+Fetch,Lady and the BAMF,4/3 Div 2,True,21,28,4/3 Div 2,4/3 Div 2
+Fetch,TuneSquad Squared,4/3 Div 2,True,21,31,4/3 Div 2,4/3 Div 2
+Fetch,Injustice League,4/3 Div 2,False,21,11,4/3 Div 2,4/3 Div 2
+Fetch,Lady and the BAMF,4/3 Div 2,True,21,28,4/3 Div 2,4/3 Div 2
+Fetch,Tubbs,4/3 Div 2,True,21,29,4/3 Div 2,4/3 Div 2
+Fetch,Zerg Rush!,4/3 Div 2,False,21,4,4/3 Div 2,4/3 Div 1
+Fetch,Booooooosh!,4/3 Div 2,False,21,22,4/3 Div 2,4/3 Div 2
+Fetch,Moose Lightning,4/3 Div 2,True,21,27,4/3 Div 2,4/3 Div 2
+Fetch,FlowChart,4/3 Div 2,False,21,2,4/3 Div 2,4/3 Div 1
+Fetch,Toads,4/3 Div 2,True,21,16,4/3 Div 2,4/3 Div 2
+Fetch,Upstream,4/3 Div 2,False,21,10,4/3 Div 2,4/3 Div 2
+Booooooosh!,Lady and the BAMF,4/3 Div 2,True,22,28,4/3 Div 2,4/3 Div 2
+Booooooosh!,Tofu Wolf,4/3 Div 2,True,22,59,4/3 Div 2,5/2 Div 3
+Booooooosh!,Fetch,4/3 Div 2,True,22,21,4/3 Div 2,4/3 Div 2
+Booooooosh!,Disc Envy,4/3 Div 2,False,22,19,4/3 Div 2,4/3 Div 2
+Booooooosh!,Injustice League,4/3 Div 2,False,22,11,4/3 Div 2,4/3 Div 2
+Booooooosh!,JHOP,4/3 Div 2,False,22,17,4/3 Div 2,4/3 Div 2
+Booooooosh!,Flaming Croissants,4/3 Div 2,False,22,13,4/3 Div 2,4/3 Div 2
+Booooooosh!,Fetch,4/3 Div 2,True,22,21,4/3 Div 2,4/3 Div 2
+Booooooosh!,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,22,15,4/3 Div 2,4/3 Div 2
+Dominion,Puddingstone,4/3 Div 2,False,23,12,4/3 Div 2,4/3 Div 2
+Dominion,Flaming Croissants,4/3 Div 2,False,23,13,4/3 Div 2,4/3 Div 2
+Dominion,Store Bought Dirt,4/3 Div 2,True,23,20,4/3 Div 2,4/3 Div 2
+Dominion,Turtle Boy,4/3 Div 2,False,23,7,4/3 Div 2,4/3 Div 1
+Dominion,FlowChart,4/3 Div 2,False,23,2,4/3 Div 2,4/3 Div 1
+Dominion,Lady and the BAMF,4/3 Div 2,True,23,28,4/3 Div 2,4/3 Div 2
+Dominion,TuneSquad,4/3 Div 2,False,23,6,4/3 Div 2,4/3 Div 1
+Dominion,Injustice League,4/3 Div 2,False,23,11,4/3 Div 2,4/3 Div 2
+Dominion,Rubs The Duckie,4/3 Div 2,False,23,18,4/3 Div 2,4/3 Div 2
+Dominion,TuneSquad Squared,4/3 Div 2,True,23,31,4/3 Div 2,4/3 Div 2
+Dominion,Rogues' Gallery,4/3 Div 2,True,23,24,4/3 Div 2,4/3 Div 2
+Dominion,Nerd Alert,4/3 Div 2,True,23,26,4/3 Div 2,4/3 Div 2
+Dominion,Tubbs,4/3 Div 2,True,23,29,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Nerd Alert,4/3 Div 2,True,24,26,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,False,24,8,4/3 Div 2,4/3 Div 1
+Rogues' Gallery,Tubbs,4/3 Div 2,True,24,29,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Stack to the Future,4/3 Div 2,True,24,35,4/3 Div 2,4/3 Div 3
+Rogues' Gallery,Toads,4/3 Div 2,False,24,16,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Top Shelf,4/3 Div 2,True,24,38,4/3 Div 2,4/3 Div 3
+Rogues' Gallery,SHRedline,4/3 Div 2,True,24,51,4/3 Div 2,5/2 Div 2
+Rogues' Gallery,FlowChart,4/3 Div 2,False,24,2,4/3 Div 2,4/3 Div 1
+Rogues' Gallery,A Lil Bit Sticky,4/3 Div 2,False,24,25,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Puddingstone,4/3 Div 2,False,24,12,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,24,15,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Moose Lightning,4/3 Div 2,False,24,27,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Disc Envy,4/3 Div 2,True,24,19,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Hipster Kitties,4/3 Div 2,True,24,30,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,JHOP,4/3 Div 2,False,24,17,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Injustice League,4/3 Div 2,False,24,11,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Rubs The Duckie,4/3 Div 2,False,24,18,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Dominion,4/3 Div 2,False,24,23,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,GrassBurner,4/3 Div 2,True,24,3,4/3 Div 2,4/3 Div 1
+Rogues' Gallery,Flaming Croissants,4/3 Div 2,False,24,13,4/3 Div 2,4/3 Div 2
+Rogues' Gallery,Oddjob,4/3 Div 2,True,24,33,4/3 Div 2,4/3 Div 3
+A Lil Bit Sticky,Nerd Alert,4/3 Div 2,True,25,26,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Injustice League,4/3 Div 2,False,25,11,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Tubbs,4/3 Div 2,True,25,29,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Toads,4/3 Div 2,False,25,16,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Disc Envy,4/3 Div 2,False,25,19,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Baba Yaga,4/3 Div 2,False,25,45,4/3 Div 2,5/2 Div 2
+A Lil Bit Sticky,Hipster Kitties,4/3 Div 2,True,25,30,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Flaming Croissants,4/3 Div 2,False,25,13,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Rogues' Gallery,4/3 Div 2,True,25,24,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Moose Lightning,4/3 Div 2,False,25,27,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Jack's Abby HAOS Lager,4/3 Div 2,False,25,14,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Upstream,4/3 Div 2,False,25,10,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Store Bought Dirt,4/3 Div 2,True,25,20,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,25,15,4/3 Div 2,4/3 Div 2
+A Lil Bit Sticky,Puddingstone,4/3 Div 2,False,25,12,4/3 Div 2,4/3 Div 2
+Nerd Alert,Puddingstone,4/3 Div 2,False,26,12,4/3 Div 2,4/3 Div 2
+Nerd Alert,A Lil Bit Sticky,4/3 Div 2,False,26,25,4/3 Div 2,4/3 Div 2
+Nerd Alert,Tubbs,4/3 Div 2,True,26,29,4/3 Div 2,4/3 Div 2
+Nerd Alert,Rubs The Duckie,4/3 Div 2,True,26,18,4/3 Div 2,4/3 Div 2
+Nerd Alert,Rogues' Gallery,4/3 Div 2,False,26,24,4/3 Div 2,4/3 Div 2
+Nerd Alert,Store Bought Dirt,4/3 Div 2,False,26,20,4/3 Div 2,4/3 Div 2
+Nerd Alert,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,26,15,4/3 Div 2,4/3 Div 2
+Nerd Alert,Get Flat Ultimate,4/3 Div 2,False,26,49,4/3 Div 2,5/2 Div 2
+Nerd Alert,TuneSquad Squared,4/3 Div 2,True,26,31,4/3 Div 2,4/3 Div 2
+Nerd Alert,Hipster Kitties,4/3 Div 2,True,26,30,4/3 Div 2,4/3 Div 2
+Nerd Alert,Flaming Croissants,4/3 Div 2,False,26,13,4/3 Div 2,4/3 Div 2
+Nerd Alert,123 Trap!,4/3 Div 2,True,26,39,4/3 Div 2,4/3 Div 3
+Nerd Alert,Toads,4/3 Div 2,True,26,16,4/3 Div 2,4/3 Div 2
+Nerd Alert,Too Drunk to Fail,4/3 Div 2,False,26,32,4/3 Div 2,4/3 Div 3
+Nerd Alert,Oddjob,4/3 Div 2,False,26,33,4/3 Div 2,4/3 Div 3
+Nerd Alert,JHOP,4/3 Div 2,False,26,17,4/3 Div 2,4/3 Div 2
+Nerd Alert,Disc Envy,4/3 Div 2,True,26,19,4/3 Div 2,4/3 Div 2
+Nerd Alert,Dominion,4/3 Div 2,False,26,23,4/3 Div 2,4/3 Div 2
+Nerd Alert,Upstream,4/3 Div 2,False,26,10,4/3 Div 2,4/3 Div 2
+Moose Lightning,Rubs The Duckie,4/3 Div 2,False,27,18,4/3 Div 2,4/3 Div 2
+Moose Lightning,Puddingstone,4/3 Div 2,False,27,12,4/3 Div 2,4/3 Div 2
+Moose Lightning,Upstream,4/3 Div 2,False,27,10,4/3 Div 2,4/3 Div 2
+Moose Lightning,Zerg Rush!,4/3 Div 2,False,27,4,4/3 Div 2,4/3 Div 1
+Moose Lightning,Injustice League,4/3 Div 2,False,27,11,4/3 Div 2,4/3 Div 2
+Moose Lightning,Flaming Croissants,4/3 Div 2,False,27,13,4/3 Div 2,4/3 Div 2
+Moose Lightning,Toads,4/3 Div 2,False,27,16,4/3 Div 2,4/3 Div 2
+Moose Lightning,Tubbs,4/3 Div 2,True,27,29,4/3 Div 2,4/3 Div 2
+Moose Lightning,FlowChart,4/3 Div 2,False,27,2,4/3 Div 2,4/3 Div 1
+Moose Lightning,Disc Envy,4/3 Div 2,False,27,19,4/3 Div 2,4/3 Div 2
+Moose Lightning,Rogues' Gallery,4/3 Div 2,True,27,24,4/3 Div 2,4/3 Div 2
+Moose Lightning,A Lil Bit Sticky,4/3 Div 2,True,27,25,4/3 Div 2,4/3 Div 2
+Moose Lightning,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,27,15,4/3 Div 2,4/3 Div 2
+Moose Lightning,GrassBurner,4/3 Div 2,True,27,3,4/3 Div 2,4/3 Div 1
+Moose Lightning,Fetch,4/3 Div 2,False,27,21,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Upstream,4/3 Div 2,False,28,10,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Toads,4/3 Div 2,False,28,16,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Booooooosh!,4/3 Div 2,False,28,22,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Underwater Monkey Cowboys,4/3 Div 2,True,28,36,4/3 Div 2,4/3 Div 3
+Lady and the BAMF,Jack's Abby HAOS Lager,4/3 Div 2,False,28,14,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Turtle Boy,4/3 Div 2,False,28,7,4/3 Div 2,4/3 Div 1
+Lady and the BAMF,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,False,28,8,4/3 Div 2,4/3 Div 1
+Lady and the BAMF,AHOC,4/3 Div 2,False,28,0,4/3 Div 2,4/3 Div 1
+Lady and the BAMF,Baboon Heart,4/3 Div 2,True,28,37,4/3 Div 2,4/3 Div 3
+Lady and the BAMF,Jiggy,4/3 Div 2,True,28,63,4/3 Div 2,5/2 Div 3
+Lady and the BAMF,Dominion,4/3 Div 2,False,28,23,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Fetch,4/3 Div 2,False,28,21,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Toads,4/3 Div 2,False,28,16,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Baba Yaga,4/3 Div 2,False,28,45,4/3 Div 2,5/2 Div 2
+Lady and the BAMF,Disc Envy,4/3 Div 2,False,28,19,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Fetch,4/3 Div 2,False,28,21,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Oddjob,4/3 Div 2,False,28,33,4/3 Div 2,4/3 Div 3
+Lady and the BAMF,JHOP,4/3 Div 2,False,28,17,4/3 Div 2,4/3 Div 2
+Lady and the BAMF,Stack to the Future,4/3 Div 2,True,28,35,4/3 Div 2,4/3 Div 3
+Lady and the BAMF,Hipster Kitties,4/3 Div 2,True,28,30,4/3 Div 2,4/3 Div 2
+Tubbs,Nerd Alert,4/3 Div 2,False,29,26,4/3 Div 2,4/3 Div 2
+Tubbs,A Lil Bit Sticky,4/3 Div 2,False,29,25,4/3 Div 2,4/3 Div 2
+Tubbs,Rogues' Gallery,4/3 Div 2,False,29,24,4/3 Div 2,4/3 Div 2
+Tubbs,JHOP,4/3 Div 2,False,29,17,4/3 Div 2,4/3 Div 2
+Tubbs,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,29,15,4/3 Div 2,4/3 Div 2
+Tubbs,Jiggy,4/3 Div 2,True,29,63,4/3 Div 2,5/2 Div 3
+Tubbs,Injustice League,4/3 Div 2,False,29,11,4/3 Div 2,4/3 Div 2
+Tubbs,Moose Lightning,4/3 Div 2,False,29,27,4/3 Div 2,4/3 Div 2
+Tubbs,Store Bought Dirt,4/3 Div 2,False,29,20,4/3 Div 2,4/3 Div 2
+Tubbs,TuneSquad Squared,4/3 Div 2,True,29,31,4/3 Div 2,4/3 Div 2
+Tubbs,AHOC,4/3 Div 2,False,29,0,4/3 Div 2,4/3 Div 1
+Tubbs,"Live Poultry, Fresh Killed (LPFK)",4/3 Div 2,False,29,8,4/3 Div 2,4/3 Div 1
+Tubbs,Toads,4/3 Div 2,False,29,16,4/3 Div 2,4/3 Div 2
+Tubbs,Fetch,4/3 Div 2,False,29,21,4/3 Div 2,4/3 Div 2
+Tubbs,Baba Yaga,4/3 Div 2,False,29,45,4/3 Div 2,5/2 Div 2
+Tubbs,Upstream,4/3 Div 2,False,29,10,4/3 Div 2,4/3 Div 2
+Tubbs,Dominion,4/3 Div 2,False,29,23,4/3 Div 2,4/3 Div 2
+Hipster Kitties,GrassBurner,4/3 Div 2,False,30,3,4/3 Div 2,4/3 Div 1
+Hipster Kitties,Rubs The Duckie,4/3 Div 2,False,30,18,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Injustice League,4/3 Div 2,False,30,11,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Puddingstone,4/3 Div 2,False,30,12,4/3 Div 2,4/3 Div 2
+Hipster Kitties,123 Trap!,4/3 Div 2,True,30,39,4/3 Div 2,4/3 Div 3
+Hipster Kitties,A Lil Bit Sticky,4/3 Div 2,False,30,25,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Nerd Alert,4/3 Div 2,False,30,26,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Tofu Wolf,4/3 Div 2,True,30,59,4/3 Div 2,5/2 Div 3
+Hipster Kitties,Store Bought Dirt,4/3 Div 2,False,30,20,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Too Drunk to Fail,4/3 Div 2,False,30,32,4/3 Div 2,4/3 Div 3
+Hipster Kitties,Spam,4/3 Div 2,False,30,60,4/3 Div 2,5/2 Div 3
+Hipster Kitties,Rogues' Gallery,4/3 Div 2,False,30,24,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Injustice League,4/3 Div 2,False,30,11,4/3 Div 2,4/3 Div 2
+Hipster Kitties,License to Kilt (fka Scoobers in Scotland),4/3 Div 2,False,30,15,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Upstream,4/3 Div 2,True,30,10,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Underwater Monkey Cowboys,4/3 Div 2,False,30,36,4/3 Div 2,4/3 Div 3
+Hipster Kitties,Lady and the BAMF,4/3 Div 2,False,30,28,4/3 Div 2,4/3 Div 2
+Hipster Kitties,Flaming Croissants,4/3 Div 2,False,30,13,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,TuneSquad,4/3 Div 2,False,31,6,4/3 Div 2,4/3 Div 1
+TuneSquad Squared,Jack's Abby HAOS Lager,4/3 Div 2,False,31,14,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Batman and the Robins,4/3 Div 2,False,31,34,4/3 Div 2,4/3 Div 3
+TuneSquad Squared,Oddjob,4/3 Div 2,False,31,33,4/3 Div 2,4/3 Div 3
+TuneSquad Squared,Rubs The Duckie,4/3 Div 2,False,31,18,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Nerd Alert,4/3 Div 2,False,31,26,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Toads,4/3 Div 2,False,31,16,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Stack to the Future,4/3 Div 2,False,31,35,4/3 Div 2,4/3 Div 3
+TuneSquad Squared,Tubbs,4/3 Div 2,False,31,29,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Fetch,4/3 Div 2,False,31,21,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Too Drunk to Fail,4/3 Div 2,False,31,32,4/3 Div 2,4/3 Div 3
+TuneSquad Squared,Upstream,4/3 Div 2,False,31,10,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Store Bought Dirt,4/3 Div 2,False,31,20,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Dominion,4/3 Div 2,False,31,23,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,JHOP,4/3 Div 2,False,31,17,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Disc Envy,4/3 Div 2,False,31,19,4/3 Div 2,4/3 Div 2
+TuneSquad Squared,Puddingstone,4/3 Div 2,False,31,12,4/3 Div 2,4/3 Div 2
+Too Drunk to Fail,Upstream,4/3 Div 3,False,32,10,4/3 Div 3,4/3 Div 2
+Too Drunk to Fail,Underwater Monkey Cowboys,4/3 Div 3,True,32,36,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,Oddjob,4/3 Div 3,False,32,33,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,Stack to the Future,4/3 Div 3,True,32,35,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,123 Trap!,4/3 Div 3,True,32,39,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,Alpha No Beta,4/3 Div 3,True,32,58,4/3 Div 3,5/2 Div 3
+Too Drunk to Fail,Jiggy,4/3 Div 3,True,32,63,4/3 Div 3,5/2 Div 3
+Too Drunk to Fail,Batman and the Robins,4/3 Div 3,True,32,34,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,Hipster Kitties,4/3 Div 3,True,32,30,4/3 Div 3,4/3 Div 2
+Too Drunk to Fail,TuneSquad Squared,4/3 Div 3,True,32,31,4/3 Div 3,4/3 Div 2
+Too Drunk to Fail,Nerd Alert,4/3 Div 3,True,32,26,4/3 Div 3,4/3 Div 2
+Too Drunk to Fail,Underwater Monkey Cowboys,4/3 Div 3,True,32,36,4/3 Div 3,4/3 Div 3
+Too Drunk to Fail,Tofu Wolf,4/3 Div 3,True,32,59,4/3 Div 3,5/2 Div 3
+Oddjob,Spam,4/3 Div 3,True,33,60,4/3 Div 3,5/2 Div 3
+Oddjob,123 Trap!,4/3 Div 3,True,33,39,4/3 Div 3,4/3 Div 3
+Oddjob,Too Drunk to Fail,4/3 Div 3,True,33,32,4/3 Div 3,4/3 Div 3
+Oddjob,TuneSquad Squared,4/3 Div 3,True,33,31,4/3 Div 3,4/3 Div 2
+Oddjob,Tofu Wolf,4/3 Div 3,False,33,59,4/3 Div 3,5/2 Div 3
+Oddjob,Alpha No Beta,4/3 Div 3,False,33,58,4/3 Div 3,5/2 Div 3
+Oddjob,Batman and the Robins,4/3 Div 3,True,33,34,4/3 Div 3,4/3 Div 3
+Oddjob,Spam,4/3 Div 3,True,33,60,4/3 Div 3,5/2 Div 3
+Oddjob,JHOP,4/3 Div 3,False,33,17,4/3 Div 3,4/3 Div 2
+Oddjob,Underwater Monkey Cowboys,4/3 Div 3,True,33,36,4/3 Div 3,4/3 Div 3
+Oddjob,Tofu Wolf,4/3 Div 3,False,33,59,4/3 Div 3,5/2 Div 3
+Oddjob,Stack to the Future,4/3 Div 3,True,33,35,4/3 Div 3,4/3 Div 3
+Oddjob,Flaming Croissants,4/3 Div 3,False,33,13,4/3 Div 3,4/3 Div 2
+Oddjob,Underwater Monkey Cowboys,4/3 Div 3,True,33,36,4/3 Div 3,4/3 Div 3
+Oddjob,Nerd Alert,4/3 Div 3,True,33,26,4/3 Div 3,4/3 Div 2
+Oddjob,Killer Bees,4/3 Div 3,True,33,61,4/3 Div 3,5/2 Div 3
+Oddjob,Lady and the BAMF,4/3 Div 3,True,33,28,4/3 Div 3,4/3 Div 2
+Oddjob,Baboon Heart,4/3 Div 3,True,33,37,4/3 Div 3,4/3 Div 3
+Oddjob,Rogues' Gallery,4/3 Div 3,False,33,24,4/3 Div 3,4/3 Div 2
+Batman and the Robins,Stack to the Future,4/3 Div 3,False,34,35,4/3 Div 3,4/3 Div 3
+Batman and the Robins,TuneSquad Squared,4/3 Div 3,True,34,31,4/3 Div 3,4/3 Div 2
+Batman and the Robins,Killer Bees,4/3 Div 3,True,34,61,4/3 Div 3,5/2 Div 3
+Batman and the Robins,123 Trap!,4/3 Div 3,True,34,39,4/3 Div 3,4/3 Div 3
+Batman and the Robins,Oddjob,4/3 Div 3,False,34,33,4/3 Div 3,4/3 Div 3
+Batman and the Robins,Baboon Heart,4/3 Div 3,True,34,37,4/3 Div 3,4/3 Div 3
+Batman and the Robins,Too Drunk to Fail,4/3 Div 3,False,34,32,4/3 Div 3,4/3 Div 3
+Batman and the Robins,Underwater Monkey Cowboys,4/3 Div 3,False,34,36,4/3 Div 3,4/3 Div 3
+Batman and the Robins,Rabbit Disc,4/3 Div 3,False,34,54,4/3 Div 3,5/2 Div 3
+Batman and the Robins,Jiggy,4/3 Div 3,True,34,63,4/3 Div 3,5/2 Div 3
+Batman and the Robins,Tofu Wolf,4/3 Div 3,False,34,59,4/3 Div 3,5/2 Div 3
+Batman and the Robins,Spawning Alewives,4/3 Div 3,True,34,66,4/3 Div 3,5/2 Div 3
+Stack to the Future,Batman and the Robins,4/3 Div 3,True,35,34,4/3 Div 3,4/3 Div 3
+Stack to the Future,Spam,4/3 Div 3,True,35,60,4/3 Div 3,5/2 Div 3
+Stack to the Future,Baboon Heart,4/3 Div 3,False,35,37,4/3 Div 3,4/3 Div 3
+Stack to the Future,Shake and Bake,4/3 Div 3,False,35,42,4/3 Div 3,5/2 Div 1
+Stack to the Future,Underwater Monkey Cowboys,4/3 Div 3,True,35,36,4/3 Div 3,4/3 Div 3
+Stack to the Future,Too Drunk to Fail,4/3 Div 3,False,35,32,4/3 Div 3,4/3 Div 3
+Stack to the Future,Rogues' Gallery,4/3 Div 3,False,35,24,4/3 Div 3,4/3 Div 2
+Stack to the Future,JHOP,4/3 Div 3,False,35,17,4/3 Div 3,4/3 Div 2
+Stack to the Future,Spawning Alewives,4/3 Div 3,True,35,66,4/3 Div 3,5/2 Div 3
+Stack to the Future,Rabbit Disc,4/3 Div 3,False,35,54,4/3 Div 3,5/2 Div 3
+Stack to the Future,License to Kilt (fka Scoobers in Scotland),4/3 Div 3,False,35,15,4/3 Div 3,4/3 Div 2
+Stack to the Future,123 Trap!,4/3 Div 3,True,35,39,4/3 Div 3,4/3 Div 3
+Stack to the Future,TuneSquad Squared,4/3 Div 3,True,35,31,4/3 Div 3,4/3 Div 2
+Stack to the Future,Tofu Wolf,4/3 Div 3,False,35,59,4/3 Div 3,5/2 Div 3
+Stack to the Future,Oddjob,4/3 Div 3,False,35,33,4/3 Div 3,4/3 Div 3
+Stack to the Future,Alpha No Beta,4/3 Div 3,True,35,58,4/3 Div 3,5/2 Div 3
+Stack to the Future,Top Shelf,4/3 Div 3,False,35,38,4/3 Div 3,4/3 Div 3
+Stack to the Future,Store Bought Dirt,4/3 Div 3,True,35,20,4/3 Div 3,4/3 Div 2
+Stack to the Future,Flaming Croissants,4/3 Div 3,False,35,13,4/3 Div 3,4/3 Div 2
+Stack to the Future,Lady and the BAMF,4/3 Div 3,False,35,28,4/3 Div 3,4/3 Div 2
+Stack to the Future,Killer Bees,4/3 Div 3,True,35,61,4/3 Div 3,5/2 Div 3
+Underwater Monkey Cowboys,Store Bought Dirt,4/3 Div 3,False,36,20,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Too Drunk to Fail,4/3 Div 3,False,36,32,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Tofu Wolf,4/3 Div 3,True,36,59,4/3 Div 3,5/2 Div 3
+Underwater Monkey Cowboys,Stack to the Future,4/3 Div 3,False,36,35,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Lady and the BAMF,4/3 Div 3,False,36,28,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Baboon Heart,4/3 Div 3,False,36,37,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Upstream,4/3 Div 3,False,36,10,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Jiggy,4/3 Div 3,False,36,63,4/3 Div 3,5/2 Div 3
+Underwater Monkey Cowboys,Top Shelf,4/3 Div 3,True,36,38,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Oddjob,4/3 Div 3,False,36,33,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Flaming Croissants,4/3 Div 3,False,36,13,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Batman and the Robins,4/3 Div 3,True,36,34,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Too Drunk to Fail,4/3 Div 3,False,36,32,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Oddjob,4/3 Div 3,False,36,33,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,123 Trap!,4/3 Div 3,True,36,39,4/3 Div 3,4/3 Div 3
+Underwater Monkey Cowboys,Toads,4/3 Div 3,False,36,16,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Hipster Kitties,4/3 Div 3,True,36,30,4/3 Div 3,4/3 Div 2
+Underwater Monkey Cowboys,Jiggy,4/3 Div 3,True,36,63,4/3 Div 3,5/2 Div 3
+Baboon Heart,Toads,4/3 Div 3,False,37,16,4/3 Div 3,4/3 Div 2
+Baboon Heart,Stack to the Future,4/3 Div 3,True,37,35,4/3 Div 3,4/3 Div 3
+Baboon Heart,Jiggy,4/3 Div 3,True,37,63,4/3 Div 3,5/2 Div 3
+Baboon Heart,Underwater Monkey Cowboys,4/3 Div 3,True,37,36,4/3 Div 3,4/3 Div 3
+Baboon Heart,Disc Envy,4/3 Div 3,False,37,19,4/3 Div 3,4/3 Div 2
+Baboon Heart,Fetch,4/3 Div 3,False,37,21,4/3 Div 3,4/3 Div 2
+Baboon Heart,Lady and the BAMF,4/3 Div 3,False,37,28,4/3 Div 3,4/3 Div 2
+Baboon Heart,Batman and the Robins,4/3 Div 3,False,37,34,4/3 Div 3,4/3 Div 3
+Baboon Heart,Killer Bees,4/3 Div 3,True,37,61,4/3 Div 3,5/2 Div 3
+Baboon Heart,Rabbit Disc,4/3 Div 3,False,37,54,4/3 Div 3,5/2 Div 3
+Baboon Heart,Flaming Croissants,4/3 Div 3,True,37,13,4/3 Div 3,4/3 Div 2
+Baboon Heart,Oddjob,4/3 Div 3,False,37,33,4/3 Div 3,4/3 Div 3
+Top Shelf,Toads,4/3 Div 3,False,38,16,4/3 Div 3,4/3 Div 2
+Top Shelf,Flaming Croissants,4/3 Div 3,False,38,13,4/3 Div 3,4/3 Div 2
+Top Shelf,JHOP,4/3 Div 3,False,38,17,4/3 Div 3,4/3 Div 2
+Top Shelf,Rogues' Gallery,4/3 Div 3,False,38,24,4/3 Div 3,4/3 Div 2
+Top Shelf,Underwater Monkey Cowboys,4/3 Div 3,False,38,36,4/3 Div 3,4/3 Div 3
+Top Shelf,Store Bought Dirt,4/3 Div 3,False,38,20,4/3 Div 3,4/3 Div 2
+Top Shelf,Tofu Wolf,4/3 Div 3,False,38,59,4/3 Div 3,5/2 Div 3
+Top Shelf,Stack to the Future,4/3 Div 3,True,38,35,4/3 Div 3,4/3 Div 3
+Top Shelf,Disc Envy,4/3 Div 3,False,38,19,4/3 Div 3,4/3 Div 2
+Top Shelf,Jiggy,4/3 Div 3,True,38,63,4/3 Div 3,5/2 Div 3
+123 Trap!,Oddjob,4/3 Div 3,False,39,33,4/3 Div 3,4/3 Div 3
+123 Trap!,Tofu Wolf,4/3 Div 3,False,39,59,4/3 Div 3,5/2 Div 3
+123 Trap!,Batman and the Robins,4/3 Div 3,False,39,34,4/3 Div 3,4/3 Div 3
+123 Trap!,Hipster Kitties,4/3 Div 3,False,39,30,4/3 Div 3,4/3 Div 2
+123 Trap!,Too Drunk to Fail,4/3 Div 3,False,39,32,4/3 Div 3,4/3 Div 3
+123 Trap!,Stack to the Future,4/3 Div 3,False,39,35,4/3 Div 3,4/3 Div 3
+123 Trap!,Nerd Alert,4/3 Div 3,False,39,26,4/3 Div 3,4/3 Div 2
+123 Trap!,Store Bought Dirt,4/3 Div 3,False,39,20,4/3 Div 3,4/3 Div 2
+123 Trap!,Underwater Monkey Cowboys,4/3 Div 3,False,39,36,4/3 Div 3,4/3 Div 3
+123 Trap!,Jiggy,4/3 Div 3,True,39,63,4/3 Div 3,5/2 Div 3
+SnakeCountryBromance,Shake and Bake,5/2 Div 1,True,40,42,5/2 Div 1,5/2 Div 1
+SnakeCountryBromance,Zerg Rush!,5/2 Div 1,True,40,4,5/2 Div 1,4/3 Div 1
+SnakeCountryBromance,GrassBurner,5/2 Div 1,True,40,3,5/2 Div 1,4/3 Div 1
+SnakeCountryBromance,Gothrilla,5/2 Div 1,True,40,1,5/2 Div 1,4/3 Div 1
+SnakeCountryBromance,SHRedline,5/2 Div 1,True,40,51,5/2 Div 1,5/2 Div 2
+Stonecutters,Shake and Bake,5/2 Div 1,True,41,42,5/2 Div 1,5/2 Div 1
+Stonecutters,Bacon,5/2 Div 1,True,41,48,5/2 Div 1,5/2 Div 2
+Stonecutters,AHOC,5/2 Div 1,False,41,0,5/2 Div 1,4/3 Div 1
+Stonecutters,Hucky McThrowandcatch,5/2 Div 1,True,41,50,5/2 Div 1,5/2 Div 2
+Stonecutters,JuJu Hex,5/2 Div 1,True,41,43,5/2 Div 1,5/2 Div 2
+Stonecutters,Iron Squids,5/2 Div 1,True,41,53,5/2 Div 1,5/2 Div 2
+Stonecutters,Get Flat Ultimate,5/2 Div 1,True,41,49,5/2 Div 1,5/2 Div 2
+Stonecutters,AHOC,5/2 Div 1,False,41,0,5/2 Div 1,4/3 Div 1
+Stonecutters,Turtle Boy,5/2 Div 1,False,41,7,5/2 Div 1,4/3 Div 1
+Stonecutters,BBN,5/2 Div 1,False,41,9,5/2 Div 1,4/3 Div 1
+Stonecutters,Maverick,5/2 Div 1,True,41,46,5/2 Div 1,5/2 Div 2
+Stonecutters,Swingers,5/2 Div 1,True,41,5,5/2 Div 1,4/3 Div 1
+Stonecutters,GrassBurner,5/2 Div 1,False,41,3,5/2 Div 1,4/3 Div 1
+Shake and Bake,Stonecutters,5/2 Div 1,False,42,41,5/2 Div 1,5/2 Div 1
+Shake and Bake,SnakeCountryBromance,5/2 Div 1,False,42,40,5/2 Div 1,5/2 Div 1
+Shake and Bake,Stack to the Future,5/2 Div 1,True,42,35,5/2 Div 1,4/3 Div 3
+Shake and Bake,TuneSquad,5/2 Div 1,False,42,6,5/2 Div 1,4/3 Div 1
+Shake and Bake,BBN,5/2 Div 1,True,42,9,5/2 Div 1,4/3 Div 1
+Shake and Bake,Pink Flamingos,5/2 Div 1,False,42,44,5/2 Div 1,5/2 Div 2
+Shake and Bake,Turtle Boy,5/2 Div 1,False,42,7,5/2 Div 1,4/3 Div 1
+Shake and Bake,The Funky Bunch,5/2 Div 1,False,42,52,5/2 Div 1,5/2 Div 2
+Shake and Bake,Maverick,5/2 Div 1,False,42,46,5/2 Div 1,5/2 Div 2
+Shake and Bake,SHRedline,5/2 Div 1,False,42,51,5/2 Div 1,5/2 Div 2
+Shake and Bake,Swingers,5/2 Div 1,False,42,5,5/2 Div 1,4/3 Div 1
+Shake and Bake,Iron Squids,5/2 Div 1,True,42,53,5/2 Div 1,5/2 Div 2
+Shake and Bake,Gothrilla,5/2 Div 1,False,42,1,5/2 Div 1,4/3 Div 1
+JuJu Hex,Get Flat Ultimate,5/2 Div 2,False,43,49,5/2 Div 2,5/2 Div 2
+JuJu Hex,SIR!,5/2 Div 2,True,43,64,5/2 Div 2,5/2 Div 3
+JuJu Hex,Stonecutters,5/2 Div 2,False,43,41,5/2 Div 2,5/2 Div 1
+JuJu Hex,Flying Salsa,5/2 Div 2,True,43,56,5/2 Div 2,5/2 Div 3
+JuJu Hex,Baba Yaga,5/2 Div 2,True,43,45,5/2 Div 2,5/2 Div 2
+JuJu Hex,M.O.B.,5/2 Div 2,True,43,65,5/2 Div 2,5/2 Div 3
+JuJu Hex,Baba Yaga,5/2 Div 2,True,43,45,5/2 Div 2,5/2 Div 2
+JuJu Hex,Bacon,5/2 Div 2,True,43,48,5/2 Div 2,5/2 Div 2
+JuJu Hex,GrassBurner,5/2 Div 2,False,43,3,5/2 Div 2,4/3 Div 1
+JuJu Hex,Get Flat Ultimate,5/2 Div 2,True,43,49,5/2 Div 2,5/2 Div 2
+JuJu Hex,Granite State Grass Stains,5/2 Div 2,True,43,55,5/2 Div 2,5/2 Div 3
+JuJu Hex,Tofu Wolf,5/2 Div 2,True,43,59,5/2 Div 2,5/2 Div 3
+JuJu Hex,AHOC,5/2 Div 2,False,43,0,5/2 Div 2,4/3 Div 1
+JuJu Hex,SIR!,5/2 Div 2,True,43,64,5/2 Div 2,5/2 Div 3
+JuJu Hex,Flying Salsa,5/2 Div 2,True,43,56,5/2 Div 2,5/2 Div 3
+Pink Flamingos,License to Kilt (fka Scoobers in Scotland),5/2 Div 2,True,44,15,5/2 Div 2,4/3 Div 2
+Pink Flamingos,Rabbit Disc,5/2 Div 2,True,44,54,5/2 Div 2,5/2 Div 3
+Pink Flamingos,Get Flat Ultimate,5/2 Div 2,True,44,49,5/2 Div 2,5/2 Div 2
+Pink Flamingos,The Funky Bunch,5/2 Div 2,True,44,52,5/2 Div 2,5/2 Div 2
+Pink Flamingos,Bacon,5/2 Div 2,True,44,48,5/2 Div 2,5/2 Div 2
+Pink Flamingos,Iron Squids,5/2 Div 2,True,44,53,5/2 Div 2,5/2 Div 2
+Pink Flamingos,Shake and Bake,5/2 Div 2,True,44,42,5/2 Div 2,5/2 Div 1
+Pink Flamingos,Maverick,5/2 Div 2,False,44,46,5/2 Div 2,5/2 Div 2
+Pink Flamingos,Demons,5/2 Div 2,True,44,57,5/2 Div 2,5/2 Div 3
+Pink Flamingos,SHRedline,5/2 Div 2,True,44,51,5/2 Div 2,5/2 Div 2
+Pink Flamingos,Hippos,5/2 Div 2,True,44,47,5/2 Div 2,5/2 Div 2
+Baba Yaga,Hucky McThrowandcatch,5/2 Div 2,True,45,50,5/2 Div 2,5/2 Div 2
+Baba Yaga,A Lil Bit Sticky,5/2 Div 2,True,45,25,5/2 Div 2,4/3 Div 2
+Baba Yaga,Flying Salsa,5/2 Div 2,True,45,56,5/2 Div 2,5/2 Div 3
+Baba Yaga,JuJu Hex,5/2 Div 2,False,45,43,5/2 Div 2,5/2 Div 2
+Baba Yaga,Bacon,5/2 Div 2,True,45,48,5/2 Div 2,5/2 Div 2
+Baba Yaga,JuJu Hex,5/2 Div 2,False,45,43,5/2 Div 2,5/2 Div 2
+Baba Yaga,Lady and the BAMF,5/2 Div 2,True,45,28,5/2 Div 2,4/3 Div 2
+Baba Yaga,Demons,5/2 Div 2,True,45,57,5/2 Div 2,5/2 Div 3
+Baba Yaga,Iron Squids,5/2 Div 2,True,45,53,5/2 Div 2,5/2 Div 2
+Baba Yaga,Get Flat Ultimate,5/2 Div 2,True,45,49,5/2 Div 2,5/2 Div 2
+Baba Yaga,Tubbs,5/2 Div 2,True,45,29,5/2 Div 2,4/3 Div 2
+Maverick,SHRedline,5/2 Div 2,True,46,51,5/2 Div 2,5/2 Div 2
+Maverick,Alpha No Beta,5/2 Div 2,True,46,58,5/2 Div 2,5/2 Div 3
+Maverick,Tofu Wolf,5/2 Div 2,True,46,59,5/2 Div 2,5/2 Div 3
+Maverick,Hippos,5/2 Div 2,True,46,47,5/2 Div 2,5/2 Div 2
+Maverick,Hucky McThrowandcatch,5/2 Div 2,True,46,50,5/2 Div 2,5/2 Div 2
+Maverick,Pink Flamingos,5/2 Div 2,True,46,44,5/2 Div 2,5/2 Div 2
+Maverick,Iron Squids,5/2 Div 2,True,46,53,5/2 Div 2,5/2 Div 2
+Maverick,Flying Salsa,5/2 Div 2,True,46,56,5/2 Div 2,5/2 Div 3
+Maverick,Shake and Bake,5/2 Div 2,False,46,42,5/2 Div 2,5/2 Div 1
+Maverick,Puddingstone,5/2 Div 2,True,46,12,5/2 Div 2,4/3 Div 2
+Maverick,Stonecutters,5/2 Div 2,False,46,41,5/2 Div 2,5/2 Div 1
+Maverick,Bacon,5/2 Div 2,False,46,48,5/2 Div 2,5/2 Div 2
+Hippos,M.O.B.,5/2 Div 2,True,47,65,5/2 Div 2,5/2 Div 3
+Hippos,THEM!,5/2 Div 2,True,47,62,5/2 Div 2,5/2 Div 3
+Hippos,Maverick,5/2 Div 2,False,47,46,5/2 Div 2,5/2 Div 2
+Hippos,SHRedline,5/2 Div 2,True,47,51,5/2 Div 2,5/2 Div 2
+Hippos,SIR!,5/2 Div 2,True,47,64,5/2 Div 2,5/2 Div 3
+Hippos,Granite State Grass Stains,5/2 Div 2,True,47,55,5/2 Div 2,5/2 Div 3
+Hippos,The Funky Bunch,5/2 Div 2,True,47,52,5/2 Div 2,5/2 Div 2
+Hippos,Hucky McThrowandcatch,5/2 Div 2,False,47,50,5/2 Div 2,5/2 Div 2
+Hippos,Iron Squids,5/2 Div 2,True,47,53,5/2 Div 2,5/2 Div 2
+Hippos,SIR!,5/2 Div 2,True,47,64,5/2 Div 2,5/2 Div 3
+Hippos,Pink Flamingos,5/2 Div 2,False,47,44,5/2 Div 2,5/2 Div 2
+Hippos,Flying Salsa,5/2 Div 2,True,47,56,5/2 Div 2,5/2 Div 3
+Bacon,Stonecutters,5/2 Div 2,False,48,41,5/2 Div 2,5/2 Div 1
+Bacon,M.O.B.,5/2 Div 2,True,48,65,5/2 Div 2,5/2 Div 3
+Bacon,Pink Flamingos,5/2 Div 2,False,48,44,5/2 Div 2,5/2 Div 2
+Bacon,SIR!,5/2 Div 2,True,48,64,5/2 Div 2,5/2 Div 3
+Bacon,Baba Yaga,5/2 Div 2,False,48,45,5/2 Div 2,5/2 Div 2
+Bacon,JuJu Hex,5/2 Div 2,False,48,43,5/2 Div 2,5/2 Div 2
+Bacon,SIR!,5/2 Div 2,True,48,64,5/2 Div 2,5/2 Div 3
+Bacon,THEM!,5/2 Div 2,True,48,62,5/2 Div 2,5/2 Div 3
+Bacon,Get Flat Ultimate,5/2 Div 2,True,48,49,5/2 Div 2,5/2 Div 2
+Bacon,Flying Salsa,5/2 Div 2,True,48,56,5/2 Div 2,5/2 Div 3
+Bacon,Maverick,5/2 Div 2,True,48,46,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,Flying Salsa,5/2 Div 2,True,49,56,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,M.O.B.,5/2 Div 2,True,49,65,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,Pink Flamingos,5/2 Div 2,False,49,44,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,JuJu Hex,5/2 Div 2,True,49,43,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,Spam,5/2 Div 2,True,49,60,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,Nerd Alert,5/2 Div 2,True,49,26,5/2 Div 2,4/3 Div 2
+Get Flat Ultimate,Iron Squids,5/2 Div 2,True,49,53,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,SIR!,5/2 Div 2,True,49,64,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,Stonecutters,5/2 Div 2,False,49,41,5/2 Div 2,5/2 Div 1
+Get Flat Ultimate,Killer Bees,5/2 Div 2,True,49,61,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,JuJu Hex,5/2 Div 2,False,49,43,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,Hucky McThrowandcatch,5/2 Div 2,False,49,50,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,Baba Yaga,5/2 Div 2,False,49,45,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,Bacon,5/2 Div 2,False,49,48,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,SHRedline,5/2 Div 2,False,49,51,5/2 Div 2,5/2 Div 2
+Get Flat Ultimate,THEM!,5/2 Div 2,True,49,62,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,Granite State Grass Stains,5/2 Div 2,False,49,55,5/2 Div 2,5/2 Div 3
+Get Flat Ultimate,Rabbit Disc,5/2 Div 2,True,49,54,5/2 Div 2,5/2 Div 3
+Hucky McThrowandcatch,Baba Yaga,5/2 Div 2,False,50,45,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,Stonecutters,5/2 Div 2,False,50,41,5/2 Div 2,5/2 Div 1
+Hucky McThrowandcatch,Gothrilla,5/2 Div 2,False,50,1,5/2 Div 2,4/3 Div 1
+Hucky McThrowandcatch,"Live Poultry, Fresh Killed (LPFK)",5/2 Div 2,False,50,8,5/2 Div 2,4/3 Div 1
+Hucky McThrowandcatch,SHRedline,5/2 Div 2,True,50,51,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,Maverick,5/2 Div 2,False,50,46,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,Iron Squids,5/2 Div 2,True,50,53,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,Get Flat Ultimate,5/2 Div 2,True,50,49,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,Hippos,5/2 Div 2,True,50,47,5/2 Div 2,5/2 Div 2
+Hucky McThrowandcatch,The Funky Bunch,5/2 Div 2,True,50,52,5/2 Div 2,5/2 Div 2
+SHRedline,Maverick,5/2 Div 2,False,51,46,5/2 Div 2,5/2 Div 2
+SHRedline,Iron Squids,5/2 Div 2,True,51,53,5/2 Div 2,5/2 Div 2
+SHRedline,Upstream,5/2 Div 2,False,51,10,5/2 Div 2,4/3 Div 2
+SHRedline,Hucky McThrowandcatch,5/2 Div 2,False,51,50,5/2 Div 2,5/2 Div 2
+SHRedline,Rogues' Gallery,5/2 Div 2,False,51,24,5/2 Div 2,4/3 Div 2
+SHRedline,Hippos,5/2 Div 2,False,51,47,5/2 Div 2,5/2 Div 2
+SHRedline,The Funky Bunch,5/2 Div 2,True,51,52,5/2 Div 2,5/2 Div 2
+SHRedline,License to Kilt (fka Scoobers in Scotland),5/2 Div 2,True,51,15,5/2 Div 2,4/3 Div 2
+SHRedline,SnakeCountryBromance,5/2 Div 2,False,51,40,5/2 Div 2,5/2 Div 1
+SHRedline,Shake and Bake,5/2 Div 2,True,51,42,5/2 Div 2,5/2 Div 1
+SHRedline,Get Flat Ultimate,5/2 Div 2,True,51,49,5/2 Div 2,5/2 Div 2
+SHRedline,Pink Flamingos,5/2 Div 2,False,51,44,5/2 Div 2,5/2 Div 2
+SHRedline,Spam,5/2 Div 2,True,51,60,5/2 Div 2,5/2 Div 3
+SHRedline,GrassBurner,5/2 Div 2,False,51,3,5/2 Div 2,4/3 Div 1
+The Funky Bunch,Demons,5/2 Div 2,True,52,57,5/2 Div 2,5/2 Div 3
+The Funky Bunch,Pink Flamingos,5/2 Div 2,False,52,44,5/2 Div 2,5/2 Div 2
+The Funky Bunch,Puddingstone,5/2 Div 2,False,52,12,5/2 Div 2,4/3 Div 2
+The Funky Bunch,SHRedline,5/2 Div 2,False,52,51,5/2 Div 2,5/2 Div 2
+The Funky Bunch,Rabbit Disc,5/2 Div 2,True,52,54,5/2 Div 2,5/2 Div 3
+The Funky Bunch,Shake and Bake,5/2 Div 2,True,52,42,5/2 Div 2,5/2 Div 1
+The Funky Bunch,Hippos,5/2 Div 2,False,52,47,5/2 Div 2,5/2 Div 2
+The Funky Bunch,Hucky McThrowandcatch,5/2 Div 2,False,52,50,5/2 Div 2,5/2 Div 2
+The Funky Bunch,Rabbit Disc,5/2 Div 2,False,52,54,5/2 Div 2,5/2 Div 3
+Iron Squids,SHRedline,5/2 Div 2,False,53,51,5/2 Div 2,5/2 Div 2
+Iron Squids,Pink Flamingos,5/2 Div 2,False,53,44,5/2 Div 2,5/2 Div 2
+Iron Squids,Get Flat Ultimate,5/2 Div 2,False,53,49,5/2 Div 2,5/2 Div 2
+Iron Squids,Flying Salsa,5/2 Div 2,False,53,56,5/2 Div 2,5/2 Div 3
+Iron Squids,Stonecutters,5/2 Div 2,False,53,41,5/2 Div 2,5/2 Div 1
+Iron Squids,Hucky McThrowandcatch,5/2 Div 2,False,53,50,5/2 Div 2,5/2 Div 2
+Iron Squids,Maverick,5/2 Div 2,False,53,46,5/2 Div 2,5/2 Div 2
+Iron Squids,Baba Yaga,5/2 Div 2,False,53,45,5/2 Div 2,5/2 Div 2
+Iron Squids,Hippos,5/2 Div 2,False,53,47,5/2 Div 2,5/2 Div 2
+Iron Squids,Tofu Wolf,5/2 Div 2,True,53,59,5/2 Div 2,5/2 Div 3
+Iron Squids,Shake and Bake,5/2 Div 2,False,53,42,5/2 Div 2,5/2 Div 1
+Rabbit Disc,Pink Flamingos,5/2 Div 3,False,54,44,5/2 Div 3,5/2 Div 2
+Rabbit Disc,Spam,5/2 Div 3,True,54,60,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Granite State Grass Stains,5/2 Div 3,False,54,55,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Toads,5/2 Div 3,False,54,16,5/2 Div 3,4/3 Div 2
+Rabbit Disc,THEM!,5/2 Div 3,True,54,62,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Stack to the Future,5/2 Div 3,True,54,35,5/2 Div 3,4/3 Div 3
+Rabbit Disc,Tofu Wolf,5/2 Div 3,True,54,59,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Spawning Alewives,5/2 Div 3,True,54,66,5/2 Div 3,5/2 Div 3
+Rabbit Disc,The Funky Bunch,5/2 Div 3,False,54,52,5/2 Div 3,5/2 Div 2
+Rabbit Disc,SIR!,5/2 Div 3,False,54,64,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Spawning Alewives,5/2 Div 3,True,54,66,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Jiggy,5/2 Div 3,True,54,63,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Baboon Heart,5/2 Div 3,True,54,37,5/2 Div 3,4/3 Div 3
+Rabbit Disc,Batman and the Robins,5/2 Div 3,True,54,34,5/2 Div 3,4/3 Div 3
+Rabbit Disc,Flying Salsa,5/2 Div 3,False,54,56,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Alpha No Beta,5/2 Div 3,False,54,58,5/2 Div 3,5/2 Div 3
+Rabbit Disc,M.O.B.,5/2 Div 3,True,54,65,5/2 Div 3,5/2 Div 3
+Rabbit Disc,Get Flat Ultimate,5/2 Div 3,False,54,49,5/2 Div 3,5/2 Div 2
+Rabbit Disc,The Funky Bunch,5/2 Div 3,True,54,52,5/2 Div 3,5/2 Div 2
+Granite State Grass Stains,Alpha No Beta,5/2 Div 3,True,55,58,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,THEM!,5/2 Div 3,True,55,62,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,Rabbit Disc,5/2 Div 3,True,55,54,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,Flying Salsa,5/2 Div 3,False,55,56,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,Hippos,5/2 Div 3,False,55,47,5/2 Div 3,5/2 Div 2
+Granite State Grass Stains,JuJu Hex,5/2 Div 3,False,55,43,5/2 Div 3,5/2 Div 2
+Granite State Grass Stains,Spawning Alewives,5/2 Div 3,False,55,66,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,Demons,5/2 Div 3,True,55,57,5/2 Div 3,5/2 Div 3
+Granite State Grass Stains,Get Flat Ultimate,5/2 Div 3,True,55,49,5/2 Div 3,5/2 Div 2
+Granite State Grass Stains,Spam,5/2 Div 3,True,55,60,5/2 Div 3,5/2 Div 3
+Flying Salsa,Get Flat Ultimate,5/2 Div 3,False,56,49,5/2 Div 3,5/2 Div 2
+Flying Salsa,THEM!,5/2 Div 3,True,56,62,5/2 Div 3,5/2 Div 3
+Flying Salsa,M.O.B.,5/2 Div 3,True,56,65,5/2 Div 3,5/2 Div 3
+Flying Salsa,Spam,5/2 Div 3,True,56,60,5/2 Div 3,5/2 Div 3
+Flying Salsa,Baba Yaga,5/2 Div 3,False,56,45,5/2 Div 3,5/2 Div 2
+Flying Salsa,JuJu Hex,5/2 Div 3,False,56,43,5/2 Div 3,5/2 Div 2
+Flying Salsa,Iron Squids,5/2 Div 3,True,56,53,5/2 Div 3,5/2 Div 2
+Flying Salsa,Granite State Grass Stains,5/2 Div 3,True,56,55,5/2 Div 3,5/2 Div 3
+Flying Salsa,SIR!,5/2 Div 3,True,56,64,5/2 Div 3,5/2 Div 3
+Flying Salsa,Alpha No Beta,5/2 Div 3,True,56,58,5/2 Div 3,5/2 Div 3
+Flying Salsa,Maverick,5/2 Div 3,False,56,46,5/2 Div 3,5/2 Div 2
+Flying Salsa,Spawning Alewives,5/2 Div 3,True,56,66,5/2 Div 3,5/2 Div 3
+Flying Salsa,Tofu Wolf,5/2 Div 3,True,56,59,5/2 Div 3,5/2 Div 3
+Flying Salsa,Killer Bees,5/2 Div 3,True,56,61,5/2 Div 3,5/2 Div 3
+Flying Salsa,Rabbit Disc,5/2 Div 3,True,56,54,5/2 Div 3,5/2 Div 3
+Flying Salsa,Bacon,5/2 Div 3,False,56,48,5/2 Div 3,5/2 Div 2
+Flying Salsa,Store Bought Dirt,5/2 Div 3,False,56,20,5/2 Div 3,4/3 Div 2
+Flying Salsa,Demons,5/2 Div 3,True,56,57,5/2 Div 3,5/2 Div 3
+Flying Salsa,JuJu Hex,5/2 Div 3,False,56,43,5/2 Div 3,5/2 Div 2
+Flying Salsa,Hippos,5/2 Div 3,False,56,47,5/2 Div 3,5/2 Div 2
+Demons,Alpha No Beta,5/2 Div 3,True,57,58,5/2 Div 3,5/2 Div 3
+Demons,Flaming Croissants,5/2 Div 3,True,57,13,5/2 Div 3,4/3 Div 2
+Demons,The Funky Bunch,5/2 Div 3,False,57,52,5/2 Div 3,5/2 Div 2
+Demons,SIR!,5/2 Div 3,True,57,64,5/2 Div 3,5/2 Div 3
+Demons,Killer Bees,5/2 Div 3,True,57,61,5/2 Div 3,5/2 Div 3
+Demons,Spawning Alewives,5/2 Div 3,True,57,66,5/2 Div 3,5/2 Div 3
+Demons,Baba Yaga,5/2 Div 3,False,57,45,5/2 Div 3,5/2 Div 2
+Demons,Spam,5/2 Div 3,False,57,60,5/2 Div 3,5/2 Div 3
+Demons,Pink Flamingos,5/2 Div 3,False,57,44,5/2 Div 3,5/2 Div 2
+Demons,Granite State Grass Stains,5/2 Div 3,False,57,55,5/2 Div 3,5/2 Div 3
+Demons,Flying Salsa,5/2 Div 3,False,57,56,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Demons,5/2 Div 3,False,58,57,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Granite State Grass Stains,5/2 Div 3,False,58,55,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Maverick,5/2 Div 3,False,58,46,5/2 Div 3,5/2 Div 2
+Alpha No Beta,Jiggy,5/2 Div 3,False,58,63,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Oddjob,5/2 Div 3,True,58,33,5/2 Div 3,4/3 Div 3
+Alpha No Beta,THEM!,5/2 Div 3,False,58,62,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Too Drunk to Fail,5/2 Div 3,False,58,32,5/2 Div 3,4/3 Div 3
+Alpha No Beta,Spam,5/2 Div 3,True,58,60,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Spawning Alewives,5/2 Div 3,True,58,66,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Jiggy,5/2 Div 3,True,58,63,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Flying Salsa,5/2 Div 3,False,58,56,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Stack to the Future,5/2 Div 3,False,58,35,5/2 Div 3,4/3 Div 3
+Alpha No Beta,Tofu Wolf,5/2 Div 3,True,58,59,5/2 Div 3,5/2 Div 3
+Alpha No Beta,M.O.B.,5/2 Div 3,True,58,65,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Rabbit Disc,5/2 Div 3,True,58,54,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Killer Bees,5/2 Div 3,True,58,61,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Tofu Wolf,5/2 Div 3,False,58,59,5/2 Div 3,5/2 Div 3
+Alpha No Beta,SIR!,5/2 Div 3,True,58,64,5/2 Div 3,5/2 Div 3
+Alpha No Beta,Jiggy,5/2 Div 3,True,58,63,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Spam,5/2 Div 3,False,59,60,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Jiggy,5/2 Div 3,True,59,63,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Underwater Monkey Cowboys,5/2 Div 3,False,59,36,5/2 Div 3,4/3 Div 3
+Tofu Wolf,123 Trap!,5/2 Div 3,True,59,39,5/2 Div 3,4/3 Div 3
+Tofu Wolf,SIR!,5/2 Div 3,False,59,64,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Maverick,5/2 Div 3,False,59,46,5/2 Div 3,5/2 Div 2
+Tofu Wolf,Oddjob,5/2 Div 3,True,59,33,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Booooooosh!,5/2 Div 3,False,59,22,5/2 Div 3,4/3 Div 2
+Tofu Wolf,Spawning Alewives,5/2 Div 3,True,59,66,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Hipster Kitties,5/2 Div 3,False,59,30,5/2 Div 3,4/3 Div 2
+Tofu Wolf,Rabbit Disc,5/2 Div 3,False,59,54,5/2 Div 3,5/2 Div 3
+Tofu Wolf,THEM!,5/2 Div 3,True,59,62,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Oddjob,5/2 Div 3,True,59,33,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Stack to the Future,5/2 Div 3,True,59,35,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Top Shelf,5/2 Div 3,True,59,38,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Jiggy,5/2 Div 3,False,59,63,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Alpha No Beta,5/2 Div 3,False,59,58,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Flying Salsa,5/2 Div 3,False,59,56,5/2 Div 3,5/2 Div 3
+Tofu Wolf,JuJu Hex,5/2 Div 3,False,59,43,5/2 Div 3,5/2 Div 2
+Tofu Wolf,Killer Bees,5/2 Div 3,True,59,61,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Iron Squids,5/2 Div 3,False,59,53,5/2 Div 3,5/2 Div 2
+Tofu Wolf,Batman and the Robins,5/2 Div 3,True,59,34,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Alpha No Beta,5/2 Div 3,True,59,58,5/2 Div 3,5/2 Div 3
+Tofu Wolf,Too Drunk to Fail,5/2 Div 3,False,59,32,5/2 Div 3,4/3 Div 3
+Tofu Wolf,Spam,5/2 Div 3,False,59,60,5/2 Div 3,5/2 Div 3
+Spam,Oddjob,5/2 Div 3,False,60,33,5/2 Div 3,4/3 Div 3
+Spam,Tofu Wolf,5/2 Div 3,True,60,59,5/2 Div 3,5/2 Div 3
+Spam,Stack to the Future,5/2 Div 3,False,60,35,5/2 Div 3,4/3 Div 3
+Spam,Flaming Croissants,5/2 Div 3,False,60,13,5/2 Div 3,4/3 Div 2
+Spam,Rabbit Disc,5/2 Div 3,False,60,54,5/2 Div 3,5/2 Div 3
+Spam,Toads,5/2 Div 3,False,60,16,5/2 Div 3,4/3 Div 2
+Spam,Flying Salsa,5/2 Div 3,False,60,56,5/2 Div 3,5/2 Div 3
+Spam,Get Flat Ultimate,5/2 Div 3,False,60,49,5/2 Div 3,5/2 Div 2
+Spam,M.O.B.,5/2 Div 3,True,60,65,5/2 Div 3,5/2 Div 3
+Spam,Oddjob,5/2 Div 3,False,60,33,5/2 Div 3,4/3 Div 3
+Spam,Alpha No Beta,5/2 Div 3,False,60,58,5/2 Div 3,5/2 Div 3
+Spam,THEM!,5/2 Div 3,True,60,62,5/2 Div 3,5/2 Div 3
+Spam,Killer Bees,5/2 Div 3,True,60,61,5/2 Div 3,5/2 Div 3
+Spam,Jiggy,5/2 Div 3,True,60,63,5/2 Div 3,5/2 Div 3
+Spam,Hipster Kitties,5/2 Div 3,True,60,30,5/2 Div 3,4/3 Div 2
+Spam,Demons,5/2 Div 3,True,60,57,5/2 Div 3,5/2 Div 3
+Spam,Jiggy,5/2 Div 3,False,60,63,5/2 Div 3,5/2 Div 3
+Spam,SIR!,5/2 Div 3,True,60,64,5/2 Div 3,5/2 Div 3
+Spam,SHRedline,5/2 Div 3,False,60,51,5/2 Div 3,5/2 Div 2
+Spam,Granite State Grass Stains,5/2 Div 3,False,60,55,5/2 Div 3,5/2 Div 3
+Spam,Tofu Wolf,5/2 Div 3,True,60,59,5/2 Div 3,5/2 Div 3
+Killer Bees,Batman and the Robins,5/2 Div 3,False,61,34,5/2 Div 3,4/3 Div 3
+Killer Bees,Spawning Alewives,5/2 Div 3,True,61,66,5/2 Div 3,5/2 Div 3
+Killer Bees,SIR!,5/2 Div 3,True,61,64,5/2 Div 3,5/2 Div 3
+Killer Bees,Demons,5/2 Div 3,False,61,57,5/2 Div 3,5/2 Div 3
+Killer Bees,THEM!,5/2 Div 3,True,61,62,5/2 Div 3,5/2 Div 3
+Killer Bees,Jiggy,5/2 Div 3,False,61,63,5/2 Div 3,5/2 Div 3
+Killer Bees,Spam,5/2 Div 3,False,61,60,5/2 Div 3,5/2 Div 3
+Killer Bees,Get Flat Ultimate,5/2 Div 3,False,61,49,5/2 Div 3,5/2 Div 2
+Killer Bees,Baboon Heart,5/2 Div 3,False,61,37,5/2 Div 3,4/3 Div 3
+Killer Bees,Toads,5/2 Div 3,False,61,16,5/2 Div 3,4/3 Div 2
+Killer Bees,Flying Salsa,5/2 Div 3,False,61,56,5/2 Div 3,5/2 Div 3
+Killer Bees,Oddjob,5/2 Div 3,False,61,33,5/2 Div 3,4/3 Div 3
+Killer Bees,Tofu Wolf,5/2 Div 3,False,61,59,5/2 Div 3,5/2 Div 3
+Killer Bees,Alpha No Beta,5/2 Div 3,False,61,58,5/2 Div 3,5/2 Div 3
+Killer Bees,Stack to the Future,5/2 Div 3,False,61,35,5/2 Div 3,4/3 Div 3
+THEM!,M.O.B.,5/2 Div 3,False,62,65,5/2 Div 3,5/2 Div 3
+THEM!,Flying Salsa,5/2 Div 3,False,62,56,5/2 Div 3,5/2 Div 3
+THEM!,Granite State Grass Stains,5/2 Div 3,False,62,55,5/2 Div 3,5/2 Div 3
+THEM!,Rabbit Disc,5/2 Div 3,False,62,54,5/2 Div 3,5/2 Div 3
+THEM!,Hippos,5/2 Div 3,False,62,47,5/2 Div 3,5/2 Div 2
+THEM!,Alpha No Beta,5/2 Div 3,True,62,58,5/2 Div 3,5/2 Div 3
+THEM!,Killer Bees,5/2 Div 3,False,62,61,5/2 Div 3,5/2 Div 3
+THEM!,Tofu Wolf,5/2 Div 3,False,62,59,5/2 Div 3,5/2 Div 3
+THEM!,Spam,5/2 Div 3,False,62,60,5/2 Div 3,5/2 Div 3
+THEM!,Spawning Alewives,5/2 Div 3,True,62,66,5/2 Div 3,5/2 Div 3
+THEM!,Bacon,5/2 Div 3,False,62,48,5/2 Div 3,5/2 Div 2
+THEM!,SIR!,5/2 Div 3,False,62,64,5/2 Div 3,5/2 Div 3
+THEM!,Jiggy,5/2 Div 3,False,62,63,5/2 Div 3,5/2 Div 3
+THEM!,Get Flat Ultimate,5/2 Div 3,False,62,49,5/2 Div 3,5/2 Div 2
+Jiggy,Tofu Wolf,5/2 Div 3,False,63,59,5/2 Div 3,5/2 Div 3
+Jiggy,Baboon Heart,5/2 Div 3,False,63,37,5/2 Div 3,4/3 Div 3
+Jiggy,Alpha No Beta,5/2 Div 3,True,63,58,5/2 Div 3,5/2 Div 3
+Jiggy,Underwater Monkey Cowboys,5/2 Div 3,False,63,36,5/2 Div 3,4/3 Div 3
+Jiggy,Tubbs,5/2 Div 3,False,63,29,5/2 Div 3,4/3 Div 2
+Jiggy,Lady and the BAMF,5/2 Div 3,False,63,28,5/2 Div 3,4/3 Div 2
+Jiggy,Too Drunk to Fail,5/2 Div 3,False,63,32,5/2 Div 3,4/3 Div 3
+Jiggy,Killer Bees,5/2 Div 3,True,63,61,5/2 Div 3,5/2 Div 3
+Jiggy,Alpha No Beta,5/2 Div 3,False,63,58,5/2 Div 3,5/2 Div 3
+Jiggy,Spam,5/2 Div 3,False,63,60,5/2 Div 3,5/2 Div 3
+Jiggy,Tofu Wolf,5/2 Div 3,True,63,59,5/2 Div 3,5/2 Div 3
+Jiggy,Rabbit Disc,5/2 Div 3,False,63,54,5/2 Div 3,5/2 Div 3
+Jiggy,Spam,5/2 Div 3,True,63,60,5/2 Div 3,5/2 Div 3
+Jiggy,THEM!,5/2 Div 3,True,63,62,5/2 Div 3,5/2 Div 3
+Jiggy,Batman and the Robins,5/2 Div 3,False,63,34,5/2 Div 3,4/3 Div 3
+Jiggy,Top Shelf,5/2 Div 3,False,63,38,5/2 Div 3,4/3 Div 3
+Jiggy,Underwater Monkey Cowboys,5/2 Div 3,False,63,36,5/2 Div 3,4/3 Div 3
+Jiggy,123 Trap!,5/2 Div 3,False,63,39,5/2 Div 3,4/3 Div 3
+Jiggy,Alpha No Beta,5/2 Div 3,False,63,58,5/2 Div 3,5/2 Div 3
+SIR!,Tofu Wolf,5/2 Div 3,True,64,59,5/2 Div 3,5/2 Div 3
+SIR!,Demons,5/2 Div 3,False,64,57,5/2 Div 3,5/2 Div 3
+SIR!,JuJu Hex,5/2 Div 3,False,64,43,5/2 Div 3,5/2 Div 2
+SIR!,Killer Bees,5/2 Div 3,False,64,61,5/2 Div 3,5/2 Div 3
+SIR!,Bacon,5/2 Div 3,False,64,48,5/2 Div 3,5/2 Div 2
+SIR!,Get Flat Ultimate,5/2 Div 3,False,64,49,5/2 Div 3,5/2 Div 2
+SIR!,Flying Salsa,5/2 Div 3,False,64,56,5/2 Div 3,5/2 Div 3
+SIR!,Hippos,5/2 Div 3,False,64,47,5/2 Div 3,5/2 Div 2
+SIR!,Rabbit Disc,5/2 Div 3,True,64,54,5/2 Div 3,5/2 Div 3
+SIR!,Bacon,5/2 Div 3,False,64,48,5/2 Div 3,5/2 Div 2
+SIR!,M.O.B.,5/2 Div 3,True,64,65,5/2 Div 3,5/2 Div 3
+SIR!,THEM!,5/2 Div 3,True,64,62,5/2 Div 3,5/2 Div 3
+SIR!,Spam,5/2 Div 3,False,64,60,5/2 Div 3,5/2 Div 3
+SIR!,Hippos,5/2 Div 3,False,64,47,5/2 Div 3,5/2 Div 2
+SIR!,JuJu Hex,5/2 Div 3,False,64,43,5/2 Div 3,5/2 Div 2
+SIR!,Alpha No Beta,5/2 Div 3,False,64,58,5/2 Div 3,5/2 Div 3
+M.O.B.,Store Bought Dirt,5/2 Div 3,False,65,20,5/2 Div 3,4/3 Div 2
+M.O.B.,THEM!,5/2 Div 3,True,65,62,5/2 Div 3,5/2 Div 3
+M.O.B.,Get Flat Ultimate,5/2 Div 3,False,65,49,5/2 Div 3,5/2 Div 2
+M.O.B.,Flying Salsa,5/2 Div 3,False,65,56,5/2 Div 3,5/2 Div 3
+M.O.B.,Bacon,5/2 Div 3,False,65,48,5/2 Div 3,5/2 Div 2
+M.O.B.,Hippos,5/2 Div 3,False,65,47,5/2 Div 3,5/2 Div 2
+M.O.B.,Spam,5/2 Div 3,False,65,60,5/2 Div 3,5/2 Div 3
+M.O.B.,JuJu Hex,5/2 Div 3,False,65,43,5/2 Div 3,5/2 Div 2
+M.O.B.,SIR!,5/2 Div 3,False,65,64,5/2 Div 3,5/2 Div 3
+M.O.B.,Alpha No Beta,5/2 Div 3,False,65,58,5/2 Div 3,5/2 Div 3
+M.O.B.,Spawning Alewives,5/2 Div 3,True,65,66,5/2 Div 3,5/2 Div 3
+M.O.B.,Rabbit Disc,5/2 Div 3,False,65,54,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Killer Bees,5/2 Div 3,False,66,61,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Stack to the Future,5/2 Div 3,False,66,35,5/2 Div 3,4/3 Div 3
+Spawning Alewives,Tofu Wolf,5/2 Div 3,False,66,59,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Demons,5/2 Div 3,False,66,57,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Alpha No Beta,5/2 Div 3,False,66,58,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Rabbit Disc,5/2 Div 3,False,66,54,5/2 Div 3,5/2 Div 3
+Spawning Alewives,THEM!,5/2 Div 3,False,66,62,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Rabbit Disc,5/2 Div 3,False,66,54,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Flying Salsa,5/2 Div 3,False,66,56,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Granite State Grass Stains,5/2 Div 3,True,66,55,5/2 Div 3,5/2 Div 3
+Spawning Alewives,M.O.B.,5/2 Div 3,False,66,65,5/2 Div 3,5/2 Div 3
+Spawning Alewives,Batman and the Robins,5/2 Div 3,False,66,34,5/2 Div 3,4/3 Div 3
