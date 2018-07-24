@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74c3704f-eb15-4129-8653-7190a05f427a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gamescores.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/gamescores.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/gamescores.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2305" />
+    <option name="y" value="420" />
+    <option name="width" value="1650" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="game_scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stan Project Night 2018-07-24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="game_scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stan Project Night 2018-07-24" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="game_scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stan Project Night 2018-07-24" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="game_scores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stan Project Night 2018-07-24" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.Scalafmt" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="game_scores" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="stan-project-night-2018-07-24" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="stan-project-night-2018-07-24-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3064935240000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="965114350" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2096222171" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ScalaTraining/SetupValidator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module09" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module11" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module12" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module13" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Module14" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SimplyScala/cibo-scala-fun-april/exercises/Sudoku" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/EDA" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/bad-di" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/continuum" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/continuum-services" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/data-integration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/farmerfree" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/manifold" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/salus-one" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/sandbox/hackathon2018Q2/fftemplate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/sandbox/hackathon2018Q2/fftemplate-brazil" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cibo/sandbox/jess" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/progfun1/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/progfun1/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/progfun1/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/progfun1/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/progfun1/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../udemy/ScalaAdvanced/scala-advanced-part-1/exercises-advanced-part-1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Flight07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Flight08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../udemy/StairwayToScalaApplied/Part1exercises/Flight06" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalafmtSettings">
+    <option name="formatOnSave" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c3704f-eb15-4129-8653-7190a05f427a" name="Default" comment="" />
+      <created>1532467620325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532467620325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2305" y="420" width="1650" height="1020" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38432837" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Build" weight="0.32954547" />
+      <window_info id="Learn" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/gamescores.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
