@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="stan-project-night-2018-07-24" />
+    <profile name="sbt 1" modules="stan-project-night-2018-07-24_1505,game_scores" />
   </component>
 </project>
